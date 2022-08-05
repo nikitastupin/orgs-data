@@ -12,7 +12,7 @@ We are open to contributions and appreciate your willingness to help! In particu
 
 ### Legend
 
-| Second Column's value | Meaning |
+| Second Column value | Meaning |
 | --- | --- |
 | `?` | this is a new program and nobody has looked for GitHub organization(s) |
 | `-` | someone has looked for GitHub organization(s) and haven't found one |
