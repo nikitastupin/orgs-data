@@ -13,6 +13,8 @@ on:
       - '.github/workflows/*'
   workflow_dispatch:
 
+permissions: read-all
+
 jobs:
   tabs:
     runs-on: ubuntu-latest
