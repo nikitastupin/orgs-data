@@ -24,6 +24,7 @@ jobs:
         run: '! grep -r -F " " orgs-data'
 
   columns:
+    if: false # reason: https://github.com/nikitastupin/orgs-data/runs/7697192767?check_suite_focus=true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
