@@ -1,0 +1,80 @@
+name: Lint
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'orgs-data/*'
+      - '.github/workflows/*'
+  pull_request:
+    paths:
+      - 'orgs-data/*'
+      - '.github/workflows/*'
+  workflow_dispatch:
+
+jobs:
+  tabs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check that spaces aren't used
+        run: '! grep -r -F " " orgs-data'
+
+  columns:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/github-script@v3
+        with:
+          script: |
+            const fs = require('fs')
+            const path = require('path')
+
+            const secondColumnRegex = new RegExp('^(https://github.com/[0-9A-Za-z][0-9A-Za-z-]*[0-9A-Za-z]?|[?-])$')
+            const dir = 'orgs-data'
+            const files = fs.readdirSync(dir, 'utf8')
+
+            let ok = true
+
+            for (const file of files) {
+              const p = path.join(dir, file)
+              const input = fs.readFileSync(p, 'utf8')
+              const lines = input.split('\n').filter(u => u)
+
+              for (const line of lines) {
+                const columns = line.split('\t')
+
+                if (columns.length < 2) {
+                  console.log(`${p}:${line}`)
+                  ok = false
+                }
+
+                if (!secondColumnRegex.test(columns[1])) {
+                  console.log(`${p}:${line}`)
+                  ok = false
+                }
+              }
+            }
+
+            if (!ok) {
+              core.setFailed('there are issues (look above for more details)')
+            }
+
+  sort-uniq:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check that lists are sorted and uniq
+        run: |
+          find orgs-data -type f | while read f; do
+            sort -u -o "$f" "$f"
+          done
+
+          MODIFIED="$(git status -s)"
+
+          if [[ "$MODIFIED" != "" ]]; then
+            echo "Not sorted uniq files:"
+            echo "$MODIFIED"
+            exit 1
+          fi
