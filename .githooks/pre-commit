@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if grep -r -F " " orgs-data; then
+  echo "error: above row(s) uses spaces instead of tabs" >&2
+  exit 1
+fi
+
+find orgs-data -type f | while read f; do
+  sort -u -o "$f" "$f"
+  git add "$f"
+done
