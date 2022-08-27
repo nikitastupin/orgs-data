@@ -42,6 +42,7 @@ Use `all-orgs.sh` to list all GitHub organization names.
 - https://github.com/arkadiyt/bounty-targets-data
 - https://github.com/disclose/bug-bounty-platforms
 - :heart: https://github.com/disclose/diodb
+- https://github.com/projectdiscovery/public-bugbounty-programs
 
 ## Acknowledgements
 
