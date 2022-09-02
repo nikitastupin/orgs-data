@@ -356,6 +356,7 @@ https://www.gamma.nl/responsible-disclosure	-
 https://www.geekzone.co.nz/content.asp?contentid=105	?
 https://www.getonbrd.com/about/privacy	?
 https://www.goldmansachs.com/privacy-and-cookies/global-privacy-policy.html	?
+https://www.google.com/about/appsecurity/	https://github.com/GerritCodeReview
 https://www.google.com/about/appsecurity/	https://github.com/GoogleChrome
 https://www.google.com/about/appsecurity/	https://github.com/GoogleChromeLabs
 https://www.google.com/about/appsecurity/	https://github.com/GoogleCloudBuild
@@ -368,6 +369,14 @@ https://www.google.com/about/appsecurity/	https://github.com/GoogleWebComponents
 https://www.google.com/about/appsecurity/	https://github.com/actions-on-google
 https://www.google.com/about/appsecurity/	https://github.com/actions-on-google-labs
 https://www.google.com/about/appsecurity/	https://github.com/android
+https://www.google.com/about/appsecurity/	https://github.com/angular
+https://www.google.com/about/appsecurity/	https://github.com/bazelbuild
+https://www.google.com/about/appsecurity/	https://github.com/chromium
+https://www.google.com/about/appsecurity/	https://github.com/dart-archive
+https://www.google.com/about/appsecurity/	https://github.com/dart-lang
+https://www.google.com/about/appsecurity/	https://github.com/flutter
+https://www.google.com/about/appsecurity/	https://github.com/forseti-security
+https://www.google.com/about/appsecurity/	https://github.com/golang
 https://www.google.com/about/appsecurity/	https://github.com/google
 https://www.google.com/about/appsecurity/	https://github.com/google-ar
 https://www.google.com/about/appsecurity/	https://github.com/google-business-communications
@@ -396,6 +405,13 @@ https://www.google.com/about/appsecurity/	https://github.com/googleprojectzero
 https://www.google.com/about/appsecurity/	https://github.com/googlesamples
 https://www.google.com/about/appsecurity/	https://github.com/googlevr
 https://www.google.com/about/appsecurity/	https://github.com/googleworkspace
+https://www.google.com/about/appsecurity/	https://github.com/istio
+https://www.google.com/about/appsecurity/	https://github.com/istio-releases
+https://www.google.com/about/appsecurity/	https://github.com/knative
+https://www.google.com/about/appsecurity/	https://github.com/knative-sandbox
+https://www.google.com/about/appsecurity/	https://github.com/protocolbuffers
+https://www.google.com/about/appsecurity/	https://github.com/quantumlib
+https://www.google.com/about/appsecurity/	https://github.com/tensorflow
 https://www.google.com/about/appsecurity/	https://github.com/terraform-google-modules
 https://www.google.com/about/appsecurity/android-rewards/	https://www.google.com/about/appsecurity/
 https://www.google.com/about/appsecurity/chrome-rewards/	https://www.google.com/about/appsecurity/
