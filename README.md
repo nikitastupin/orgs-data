@@ -37,6 +37,18 @@ Use `all-orgs.sh` to list all GitHub organization names.
 ...
 ```
 
+Use `todo.sh` to list programs that you may find organizations for.
+
+```bash
+./scripts/todo.sh
+```
+
+```
+/path/to/orgs-data/orgs-data/hackerone.external_program.tsv:https://hackerone.com/coinpayments	?
+/path/to/orgs-data/orgs-data/orgs-data/hackerone.external_program.tsv:https://hackerone.com/ethereum	?
+...
+```
+
 ## Dependencies
 
 - https://github.com/arkadiyt/bounty-targets-data
