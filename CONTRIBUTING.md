@@ -22,7 +22,7 @@ Please open a pull request or an issue correcting the mistake!
 
 ## How to discover new GitHub orgs?
 
-1. https://github.com/search with the `type:org company` query
+1. https://github.com/search with the `type:org company` query and sort by the number of followers
 1. https://www.google.com with the `company github` query
 
 where `company` is the company's name
