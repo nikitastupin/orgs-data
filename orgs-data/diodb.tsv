@@ -215,9 +215,9 @@ https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128	?
 https://security.remitano.com/	https://github.com/remitano
 https://security.samsungmobile.com/securityReporting.smsb	https://github.com/SAMSUNG-Mobile-App-Resources
 https://silvergoldbull.com/bug-bounty/	-
-https://slack.com/report-vulnerability	https://github.com/slackhq
 https://slack.com/report-vulnerability	https://github.com/slack-samples
 https://slack.com/report-vulnerability	https://github.com/slackapi
+https://slack.com/report-vulnerability	https://github.com/slackhq
 https://snyk.io/docs/security	https://github.com/snyk
 https://snyk.io/docs/security	https://github.com/snyk-it
 https://snyk.io/docs/security	https://github.com/snyk-labs
@@ -234,15 +234,15 @@ https://stripe.com/docs/security/stripe	https://github.com/stripe-ios
 https://stripe.com/docs/security/stripe	https://github.com/stripe-samples
 https://studo.com/at/security	https://github.com/studo-app
 https://support.bitpay.com/hc/en-us/articles/204229369-Does-BitPay-have-a-bug-bounty-program-	https://github.com/bitpay
-https://support.kaspersky.com/vulnerability	https://github.com/KasperskyLab
 https://support.kaspersky.com/vulnerability	https://github.com/KasperskyCareer
+https://support.kaspersky.com/vulnerability	https://github.com/KasperskyLab
 https://support.newdex.net/hc/en-us/articles/360046715092-Defibox-launches-bug-bounty-program-officially	-
 https://support.plex.tv/articles/reporting-security-issues/	https://github.com/plexinc
 https://support.plex.tv/articles/reporting-security-issues/	https://github.com/plexinc-agents
 https://support.plex.tv/articles/reporting-security-issues/	https://github.com/plexinc-plugins
 https://support.signal.org/hc/en-us/articles/360007320791-How-can-I-report-a-security-vulnerability-	https://github.com/signalapp
-https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability	https://github.com/udemy
 https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability	https://github.com/UdemyByBroadridge
+https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability	https://github.com/udemy
 https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability	https://github.com/udemy-jverd
 https://technet.microsoft.com/en-us/security/dn800983	https://github.com/OfficeDev
 https://technet.microsoft.com/en-us/security/dn800983	https://github.com/microsoft
@@ -267,7 +267,6 @@ https://ubuntu.com/security/disclosure-policy	https://github.com/canonical-desig
 https://ubuntu.com/security/disclosure-policy	https://github.com/canonical-field-engineering
 https://ubuntu.com/security/disclosure-policy	https://github.com/canonical-web-and-design
 https://ubuntu.com/security/disclosure-policy	https://github.com/ubuntu
-https://ui.com/security/	https://github.com/ubiquiti
 https://ui.com/security/	https://github.com/Ubiquiti-BSP
 https://ui.com/security/	https://github.com/Ubiquiti-CN
 https://ui.com/security/	https://github.com/Ubiquiti-Cloud
@@ -275,6 +274,7 @@ https://ui.com/security/	https://github.com/Ubiquiti-DevOps
 https://ui.com/security/	https://github.com/Ubiquiti-External
 https://ui.com/security/	https://github.com/Ubiquiti-Mobile
 https://ui.com/security/	https://github.com/Ubiquiti-Vault
+https://ui.com/security/	https://github.com/ubiquiti
 https://upserve.com/security/	https://github.com/swipely
 https://upserve.com/security/	https://github.com/upserve
 https://vpnarea.com/front/home/bugbounty	-
