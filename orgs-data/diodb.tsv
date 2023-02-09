@@ -103,7 +103,7 @@ https://eligible.com/responsible_disclosure_program	https://github.com/eligible
 https://emberjs.com/security/	https://github.com/emberjs
 https://en.outscale.com/reporting-vulnerabilities/	https://yeswehack.com/programs/outscale
 https://etherscan.io/bugbounty	https://github.com/etherscan
-https://eurid.eu/lv/other-infomation/eurid-responsible-disclosure-policy/	https://github.com/intigriti
+https://eurid.eu/lv/other-infomation/eurid-responsible-disclosure-policy/	https://app.intigriti.com/programs/eurid/eurid/detail
 https://explore.researchgate.net/display/support/Security+and+vulnerability	https://github.com/researchgate
 https://ferm-rotterdam.nl/nl/responsible-disclosure-statement	-
 https://flowcrypt.com/docs/technical/bug-bounty.html	https://github.com/FlowCrypt
@@ -112,8 +112,8 @@ https://g.co/vrp	https://github.com/firebase
 https://gcore.com/bug-bounty-program/	https://github.com/g-core
 https://getdpd.com/security/	-
 https://ghostscript.com/Bug_bounty_program.html	https://github.com/ArtifexSoftware
-https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md	https://github.com/18F
-https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md	https://github.com/BTCGPU
+https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md	https://hackerone.com/gsa_bbp
+https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md	https://bitcoingold.org/responsible-disclosure/
 https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/issues/54	https://github.com/Proof-Of-Humanity
 https://github.com/flashbots/mev-boost/blob/main/SECURITY.md	https://github.com/flashbots
 https://github.com/iotaledger/iota-java/blob/dev/.github/SECURITY.md	https://github.com/iotaledger
@@ -162,10 +162,7 @@ https://mega.co.nz/#blog_6	https://github.com/meganz
 https://mujs.com/security.html	-
 https://mybb.com/get-involved/security/	https://github.com/mybb
 https://namshi.com/security/	https://github.com/namshi
-https://nginx.org/en/security_advisories.html	https://github.com/nginx
-https://nginx.org/en/security_advisories.html	https://github.com/nginx-architects
-https://nginx.org/en/security_advisories.html	https://github.com/nginx-ops
-https://nginx.org/en/security_advisories.html	https://github.com/nginxinc
+https://nginx.org/en/security_advisories.html https://hackerone.com/ibb
 https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf	https://github.com/NOWPaymentsGitHub
 https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf	https://github.com/nowpayments
 https://onfo.zendesk.com/hc/en-us/articles/360025769031-Bug-Bounty-Program	https://github.com/onfocoin
