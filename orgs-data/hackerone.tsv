@@ -137,6 +137,7 @@ https://hackerone.com/dropbox	https://github.com/HelloFax
 https://hackerone.com/dropbox	https://github.com/docsend
 https://hackerone.com/dropbox	https://github.com/dropbox
 https://hackerone.com/dropbox	https://github.com/hellosign
+https://hackerone.com/dropbox	https://github.com/hellosign-samples
 https://hackerone.com/elastic	https://github.com/elastic
 https://hackerone.com/elastic	https://github.com/swiftype
 https://hackerone.com/engel_volkers_bbp	https://github.com/EngelVoelkers
@@ -225,6 +226,7 @@ https://hackerone.com/ibb	https://github.com/Electron
 https://hackerone.com/ibb	https://github.com/curl
 https://hackerone.com/ibb	https://github.com/django
 https://hackerone.com/ibb	https://github.com/nginx
+https://hackerone.com/ibb	https://github.com/nginx-architects
 https://hackerone.com/ibb	https://github.com/nginxinc
 https://hackerone.com/ibb	https://github.com/openssl
 https://hackerone.com/ibb	https://github.com/rails
@@ -369,6 +371,7 @@ https://hackerone.com/shopify	https://github.com/Shopify
 https://hackerone.com/showmax	https://github.com/showmax
 https://hackerone.com/sidefx	https://github.com/sideeffects
 https://hackerone.com/skale_network	https://github.com/skalenetwork
+https://hackerone.com/slack	https://github.com/slack-samples
 https://hackerone.com/slack	https://github.com/slackapi
 https://hackerone.com/slack	https://github.com/slackhq
 https://hackerone.com/smartsheet	https://github.com/SmartsheetConsulting
@@ -444,7 +447,12 @@ https://hackerone.com/uber	https://github.com/yarpc
 https://hackerone.com/udemy	https://github.com/udemy
 https://hackerone.com/ui	https://github.com/Ubiquiti-App
 https://hackerone.com/ui	https://github.com/Ubiquiti-BSP
+https://hackerone.com/ui	https://github.com/Ubiquiti-CN
 https://hackerone.com/ui	https://github.com/Ubiquiti-Cloud
+https://hackerone.com/ui	https://github.com/Ubiquiti-DevOps
+https://hackerone.com/ui	https://github.com/Ubiquiti-External
+https://hackerone.com/ui	https://github.com/Ubiquiti-Mobile
+https://hackerone.com/ui	https://github.com/Ubiquiti-Vault
 https://hackerone.com/ui	https://github.com/ubiquiti
 https://hackerone.com/unikrn	https://github.com/unikrn
 https://hackerone.com/urbancompany	https://github.com/urbanclap-engg
