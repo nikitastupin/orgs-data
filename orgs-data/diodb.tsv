@@ -207,7 +207,7 @@ https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedi
 https://security.midas.network/reporting	-
 https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128	?
 https://security.remitano.com/	https://github.com/remitano
-https://security.samsungmobile.com/securityReporting.smsb	https://hackerone.com/samsungmobile	
+https://security.samsungmobile.com/securityReporting.smsb	https://hackerone.com/samsungmobile
 https://silvergoldbull.com/bug-bounty/	-
 https://slack.com/report-vulnerability	https://github.com/slack-samples
 https://slack.com/report-vulnerability	https://hackerone.com/slack
@@ -297,7 +297,7 @@ https://www.atlassian.com/trust/security/report-a-vulnerability	https://bugcrowd
 https://www.auvik.com/disclosure-policy.html	https://github.com/auvik
 https://www.avanza.se/sakerhet-villkor/sakerhet.html	https://github.com/AvanzaBank
 https://www.avast.com/bug-bounty	https://hackerone.com/avast
-https://www.avira.com/en/support-vulnerability	https://github.c;om/Avira
+https://www.avira.com/en/support-vulnerability	https://github.com/Avira
 https://www.backblaze.com/security.html	https://github.com/Backblaze
 https://www.backblaze.com/security.html	https://github.com/Backblaze-B2-Samples
 https://www.bentley.com/responsible_disclosure.pdf	https://github.com/BentleySystems
@@ -362,8 +362,7 @@ https://www.f-secure.com/en/business/programs/vulnerability-reward-program	https
 https://www.f-secure.com/en/business/programs/vulnerability-reward-program	https://github.com/f-secure-foundry
 https://www.f-secure.com/en/business/programs/vulnerability-reward-program	https://github.com/f-secure-japan
 https://www.facebook.com/BugBounty/	https://hackerone.com/facebook
-https://www.facebook.com/whitehat	https://github.com/Facebook2React
-https://www.facebook.com/whitehat	https://github.com/aLikeep
+https://www.facebook.com/whitehat	https://hackerone.com/facebook
 https://www.factorialhr.com/security/	https://github.com/factorialco
 https://www.fair.com/bug-bounty	https://github.com/wearefair
 https://www.fanduel.com/security	https://hackerone.com/fanduel
