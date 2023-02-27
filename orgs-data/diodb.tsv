@@ -49,7 +49,7 @@ https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7	https://github.com/airsw
 https://blog.aragon.org/aragon-network-bug-bounty/	https://github.com/aragon
 https://bounty.decred.org/	https://github.com/dcrlabs
 https://bounty.decred.org/	https://github.com/decred
-https://bounty.ethereum.org/	https://github.com/ethereum
+https://bounty.ethereum.org/	https://hackerone.com/ethereum
 https://bounty.github.com/	https://hackerone.com/github
 https://bounty.mit.edu/	-
 https://bounty.tokopedia.net/rules	-
@@ -58,7 +58,7 @@ https://bugbounty.linecorp.com/en/	https://hackerone.com/line
 https://bugbounty.paytm.com/	https://github.com/Paytm-Payments
 https://bugbounty.paytm.com/	https://github.com/PaytmLabs
 https://bugbounty.paytm.com/	https://github.com/paytm
-https://bugbounty.prezi.com/	https://github.com/prezi
+https://bugbounty.prezi.com/	https://hackerone.com/prezi
 https://bugbounty.zoho.com/bb/info#guide	https://github.com/ZohoDevelopers
 https://bugbounty.zoho.com/bb/info#guide	https://github.com/ZohoPlugin
 https://bugs.php.net/report.php?bug_type=Security	https://github.com/php
@@ -240,8 +240,7 @@ https://tezos.foundation/security/	https://gitlab.com/tezos
 https://tls.mbed.org/bug-bounty-program	?
 https://tls.mbed.org/c-library-bug-bounty-program	https://github.com/ARMmbed
 https://trezor.io/security/	https://github.com/trezor
-https://tron.network/findBug	https://github.com/TRON
-https://tron.network/findBug	https://github.com/tronprotocol
+https://tron.network/findBug	https://hackerone.com/tron_dao
 https://tumblr.zendesk.com/hc/en-us/articles/234583348-Bug-Bounty-Program	https://github.com/TumblrArchive
 https://tumblr.zendesk.com/hc/en-us/articles/234583348-Bug-Bounty-Program	https://github.com/tumblr
 https://ubuntu.com/security/disclosure-policy	https://github.com/CanonicalLtd
@@ -313,7 +312,7 @@ https://www.cockroachlabs.com/security/responsible-disclosure-policy/	https://gi
 https://www.cockroachlabs.com/security/responsible-disclosure-policy/	https://github.com/cockroachlabs-field
 https://www.codeweavers.com/support/wiki/website/security/	?
 https://www.coinjar.com/bounty	https://github.com/coinjar
-https://www.coinpayments.net/help-bug-bounty	https://github.com/CoinPaymentsNet
+https://www.coinpayments.net/help-bug-bounty	https://hackerone.com/coinpayments
 https://www.cointracker.io/security	https://github.com/coin-tracker
 https://www.collabim.cz/bezpecnost-collabimu.html	-
 https://www.conferencebadge.com/security/	https://github.com/ConferenceBadge
@@ -483,7 +482,7 @@ https://www.jetbrains.com/legal/terms/coordinated-disclosure.html	https://github
 https://www.jetbrains.com/legal/terms/coordinated-disclosure.html	https://github.com/jetbrains-academy
 https://www.jetbrains.com/legal/terms/coordinated-disclosure.html	https://github.com/jetbrains-infra
 https://www.jetbrains.com/legal/terms/coordinated-disclosure.html	https://github.com/kotlin-hands-on
-https://www.kiwi.com/us/pages/security	-
+https://www.kiwi.com/us/pages/security	https://hackerone.com/kiwicom
 https://www.korukids.co.uk/privacy-policy/	-
 https://www.kraken.com/security/bug-bounty	https://github.com/krakenfx
 https://www.kreezalid.com/privacy-policy	-
@@ -492,12 +491,12 @@ https://www.loginradius.com/bug-bounty/	https://github.com/LoginRadius
 https://www.lyft.com/security	-
 https://www.majidalfuttaim.com/en/responsible-disclosure-policy	https://github.com/majid-al-futtaim
 https://www.majidalfuttaim.com/en/responsible-disclosure-policy	https://github.com/majidalfuttaim
-https://www.malwarebytes.org/secure/	https://github.com/Malwarebytes
+https://www.malwarebytes.org/secure/	https://hackerone.com/malwarebytes
 https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html	https://github.com/marktplaats-external
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/MicroStrategy
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/mstr-dev
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/mstr-devops
-https://www.mindstronghealth.com/security-policy.html	-
+https://www.mindstronghealth.com/security-policy.html	https://github.com/MindStrongHealth
 https://www.missguided.co.uk/responsible-disclosure	-
 https://www.monetha.io/bounty	-
 https://www.mozilla.org/en-US/security/bug-bounty/	-
@@ -556,7 +555,7 @@ https://www.qualtrics.com/platform/security/vulnerability-disclosure/	-
 https://www.range.co/security/bounty	https://github.com/range-labs
 https://www.rea-group.com/security	-
 https://www.rekruter.de/impressum/datenschutz.lasso	-
-https://www.rewind.io/vulnerability-disclosure-policy	https://github.com/rewindio
+https://www.rewind.io/vulnerability-disclosure-policy	https://hackerone.com/rewind_io
 https://www.ricoh.ca/en/about-us/vulnerability-disclosure-policy	-
 https://www.rtbf.be/cgu/	-
 https://www.sanity.io/security	https://github.com/sanity-io
