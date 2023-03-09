@@ -237,7 +237,7 @@ https://telegram.org/faq#q-what-if-my-hacker-friend-says-they-could-decipher-tel
 https://telegram.org/faq#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes	https://github.com/telegramdesktop
 https://telegram.org/faq#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes	https://github.com/zhukov
 https://tezos.foundation/security/	https://gitlab.com/tezos
-https://tls.mbed.org/bug-bounty-program	?
+https://tls.mbed.org/bug-bounty-program	https://github.com/Mbed-TLS
 https://tls.mbed.org/c-library-bug-bounty-program	https://github.com/ARMmbed
 https://trezor.io/security/	https://github.com/trezor
 https://tron.network/findBug	https://hackerone.com/tron_dao
@@ -270,12 +270,12 @@ https://www.adex.network/security-policy.txt	https://github.com/AdExNetwork
 https://www.adp.com/about-adp/data-security.aspx	https://github.com/adplabs
 https://www.adp.com/about-adp/data-security.aspx	https://github.com/adpllc
 https://www.adquick.com/disclosure	https://github.com/adquick
-https://www.agsairports.co.uk/report-a-vulnerability/	?
+https://www.agsairports.co.uk/report-a-vulnerability/	-
 https://www.aholddelhaize.com/en/security/	-
 https://www.airmiles.nl/responsible-disclosure	-
 https://www.airship.com/legal/full-disclosure-security-policy/	https://github.com/urbanairships
 https://www.alwaysdata.com/en/bug-bounty/	https://github.com/alwaysdata
-https://www.amr.net/site/privacy-policy	?
+https://www.amr.net/site/privacy-policy	https://github.com/AMR-EMS-AMBULANCE-CANYON-COUNTY
 https://www.apache.org/security/	https://hackerone.com/ibb
 https://www.apnic.net/community/security/apnic-vulnerability-reporting-program/	https://github.com/APNIC-net
 https://www.aquasec.com/trust/security/responsible-disclosure-program/	https://github.com/aquasecurity
@@ -302,7 +302,7 @@ https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Polic
 https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Policy_EN.pdf	https://github.com/bunqCommunity
 https://www.burda-forward.de/en/security/	https://github.com/BurdaForward
 https://www.canva.com/security/bug-bounty/	https://github.com/Canva
-https://www.cert.govt.nz/it-specialists/guides/reporting-a-vulnerability/cert-nz-coordinated-vulnerability-disclosure-policy/	?
+https://www.cert.govt.nz/it-specialists/guides/reporting-a-vulnerability/cert-nz-coordinated-vulnerability-disclosure-policy/	https://github.com/certnz
 https://www.childcare.co.uk/responsible-disclosure-policy	https://github.com/childcare
 https://www.classdojo.com/securitydisclosureprogram/	https://github.com/classdojo
 https://www.clever-cloud.com/security-policy/	https://github.com/CleverCloud
@@ -310,7 +310,7 @@ https://www.cloudbees.com/security-policy/	https://hackerone.com/cloudbees
 https://www.cockroachlabs.com/security/responsible-disclosure-policy/	https://github.com/cockroachdb
 https://www.cockroachlabs.com/security/responsible-disclosure-policy/	https://github.com/cockroachlabs
 https://www.cockroachlabs.com/security/responsible-disclosure-policy/	https://github.com/cockroachlabs-field
-https://www.codeweavers.com/support/wiki/website/security/	?
+https://www.codeweavers.com/support/wiki/website/security/	-
 https://www.coinjar.com/bounty	https://github.com/coinjar
 https://www.coinpayments.net/help-bug-bounty	https://hackerone.com/coinpayments
 https://www.cointracker.io/security	https://github.com/coin-tracker
@@ -320,7 +320,8 @@ https://www.cosyfeet.com/security-privacy	-
 https://www.countryfinancial.com/en/privacy-and-security.html	?
 https://www.crunchbase.com/.well-known/security-policy.txt	https://github.com/crunchbase
 https://www.csfd.cz/vyvojari/	-
-https://www.defcon.org/html/links/dc-policy.html	?
+https://www.defcon.org/html/links/dc-policy.html	https://github.com/defcon201
+https://www.defcon.org/html/links/dc-policy.html	https://github.com/defconfurs
 https://www.defiant.com/security/	?
 https://www.dentrix.com/support/data-security/bug-bounty-program	-
 https://www.deribit.com/pages/information/bug-bounty-program	-
