@@ -86,6 +86,8 @@ https://debricked.com/report-a-vulnerability/	https://github.com/debricked-cli
 https://definityinc.com/bug-bounty-program/	-
 https://dev.zilliqa.com/docs/contributors/contribute-bug-bounty/	https://hackerone.com/zilliqa
 https://developer.apple.com/security-bounty/	https://github.com/apple
+https://developer.apple.com/security-bounty/	https://github.com/apple-oss-distributions
+https://developer.apple.com/security-bounty/	https://github.com/appleopen
 https://developer.joomla.org/security.html	https://github.com/joomla
 https://developer.joomla.org/security.html	https://github.com/joomla-extensions
 https://developers.rsk.co/contribute/bug-bounty-program/	https://hackerone.com/iovlabs
@@ -320,8 +322,7 @@ https://www.cosyfeet.com/security-privacy	-
 https://www.countryfinancial.com/en/privacy-and-security.html	?
 https://www.crunchbase.com/.well-known/security-policy.txt	https://github.com/crunchbase
 https://www.csfd.cz/vyvojari/	-
-https://www.defcon.org/html/links/dc-policy.html	https://github.com/defcon201
-https://www.defcon.org/html/links/dc-policy.html	https://github.com/defconfurs
+https://www.defcon.org/html/links/dc-policy.html	-
 https://www.defiant.com/security/	?
 https://www.dentrix.com/support/data-security/bug-bounty-program	-
 https://www.deribit.com/pages/information/bug-bounty-program	-
