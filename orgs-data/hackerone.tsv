@@ -199,6 +199,7 @@ https://hackerone.com/github	https://github.com/paper-spa
 https://hackerone.com/github	https://github.com/primer
 https://hackerone.com/github	https://github.com/probot
 https://hackerone.com/github	https://github.com/tree-sitter
+https://hackerone.com/github	https://github.com/hubotio
 https://hackerone.com/github-security-lab	-
 https://hackerone.com/gitlab	https://github.com/GitLab-Red-Team
 https://hackerone.com/gitlab	https://github.com/gitlabhq
@@ -246,6 +247,11 @@ https://hackerone.com/ibb	https://github.com/ruby
 https://hackerone.com/ibb	https://github.com/rubygems
 https://hackerone.com/ibb	https://github.com/rust-lang
 https://hackerone.com/ibb	https://github.com/spiffe
+https://hackerone.com/ibb	https://github.com/xen-project
+https://hackerone.com/ibb	https://github.com/libssh
+https://hackerone.com/ibb	https://github.com/libssh2
+https://hackerone.com/ibb	https://github.com/argoproj
+https://hackerone.com/ibb	https://github.com/rack
 https://hackerone.com/imgur	https://github.com/Imgur
 https://hackerone.com/indrive	https://github.com/inDriver
 https://hackerone.com/instacart	https://github.com/instacart
@@ -269,7 +275,7 @@ https://hackerone.com/launchdarkly	https://github.com/launchdarkly-labs
 https://hackerone.com/liberapay	https://github.com/liberapay
 https://hackerone.com/lifeomic	https://github.com/lifeomic
 https://hackerone.com/line	https://github.com/line
-https://hackerone.com/linkedin	https://github.com/linkedin
+https://hackerone.com/linkedin	https://security.linkedin.com/vulnerabilty-disclosure
 https://hackerone.com/linktree	https://github.com/blstrco
 https://hackerone.com/lob	https://github.com/lob
 https://hackerone.com/localizejs	https://github.com/Localize
@@ -321,6 +327,10 @@ https://hackerone.com/oasis_protocol_foundation	https://github.com/oasisprotocol
 https://hackerone.com/omise	https://github.com/OmisePayments
 https://hackerone.com/omise	https://github.com/omise
 https://hackerone.com/omise	https://github.com/omisego
+https://hackerone.com/open-xchange	https://github.com/Open-Xchange-Frontend
+https://hackerone.com/open-xchange	https://github.com/PowerDNS
+https://hackerone.com/open-xchange	https://github.com/dovecot
+https://hackerone.com/open-xchange	https://github.com/open-xchange
 https://hackerone.com/opensea	https://github.com/ProjectOpenSea
 https://hackerone.com/oppo	https://github.com/oppo
 https://hackerone.com/owncloud	https://github.com/owncloud
