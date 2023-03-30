@@ -1,4 +1,4 @@
-name: Lint
+name: lint
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
   tabs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Check that spaces aren't used
         run: '! grep -r -F " " orgs-data'
 
@@ -29,7 +29,7 @@ jobs:
     if: false
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/github-script@v3
         with:
           script: |
@@ -69,7 +69,7 @@ jobs:
   sort-uniq:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Check that lists are sorted and uniq
         run: |
           find orgs-data -type f | while read f; do
@@ -78,7 +78,7 @@ jobs:
 
           MODIFIED="$(git status -s)"
 
-          if [[ "$MODIFIED" != "" ]]; then
+          if [ -n "$MODIFIED" ]; then
             echo "Not sorted uniq files:"
             echo "$MODIFIED"
             exit 1
@@ -104,4 +104,4 @@ jobs:
           ./scripts/all-orgs.sh > /tmp/after
       - name: diff
         run: |
-          diff -u /tmp/before /tmp/after
+          [ -z "$(comm -23 /tmp/before /tmp/after)" ]
