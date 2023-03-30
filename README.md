@@ -1,6 +1,5 @@
 # orgs-data
 
-
 The main goal of this repository is to facilitate bug bounty and vulnerability disclosure in the context of (1) leaked secrets (e.g. with [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)) and (2) GitHub Actions workflow vulnerabilities (e.g. with [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub)) but also (3) to help with reconnaissance (e.g. gathering domains and parameter names from organization's repositories). Having said that, feel free to find and share other ways to use this repository!
 
 ## Contributing
