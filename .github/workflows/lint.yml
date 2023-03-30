@@ -83,3 +83,23 @@ jobs:
             echo "$MODIFIED"
             exit 1
           fi
+
+  forget-nothing:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
+    env:
+      BEFORE: ${{ github.event.before || github.event.pull_request.base.sha }}
+      AFTER:  ${{ github.event.after  || github.event.pull_request.head.sha }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: before
+        run: |
+          git checkout "$BEFORE"
+          ./scripts/all-orgs.sh > /tmp/before
+      - name: after
+        run: |
+          git checkout "$AFTER"
+          ./scripts/all-orgs.sh > /tmp/after
+      - name: diff
+        run: |
+          diff -u /tmp/before /tmp/after
