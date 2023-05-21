@@ -5,11 +5,11 @@ on:
     branches:
       - main
     paths:
-      - 'orgs-data/*'
+      - 'orgs-data/**'
       - '.github/workflows/*'
   pull_request:
     paths:
-      - 'orgs-data/*'
+      - 'orgs-data/**'
       - '.github/workflows/*'
   workflow_dispatch:
 
@@ -20,69 +20,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Check that spaces aren't used
+      - name: check no spaces
         run: '! grep -r -F " " orgs-data'
 
-  columns:
-    # reason: https://github.com/nikitastupin/orgs-data/runs/7697192767?check_suite_focus=true
-    # todo: handle non-GitHub URLs
-    if: false
+  columns-and-content:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/github-script@v3
-        with:
-          script: |
-            const fs = require('fs')
-            const path = require('path')
-
-            const secondColumnRegex = new RegExp('^(https://github.com/[0-9A-Za-z][0-9A-Za-z-]*[0-9A-Za-z]?|[?-])$')
-            const dir = 'orgs-data'
-            const files = fs.readdirSync(dir, 'utf8')
-
-            let ok = true
-
-            for (const file of files) {
-              const p = path.join(dir, file)
-              const input = fs.readFileSync(p, 'utf8')
-              const lines = input.split('\n').filter(u => u)
-
-              for (const line of lines) {
-                const columns = line.split('\t')
-
-                if (columns.length < 2) {
-                  console.log(`${p}:${line}`)
-                  ok = false
-                }
-
-                if (!secondColumnRegex.test(columns[1])) {
-                  console.log(`${p}:${line}`)
-                  ok = false
-                }
-              }
-            }
-
-            if (!ok) {
-              core.setFailed('there are issues (look above for more details)')
-            }
+      - name: install trurl
+        run: |
+          sudo apt install libcurl4-openssl-dev
+          pushd .
+          git clone https://github.com/curl/trurl
+          cd trurl
+          make
+          sudo cp trurl /usr/local/bin
+          popd
+          rm -rf trurl
+      - name: check columns and content
+        run: ./scripts/workflows/columns-and-content.sh
 
   sort-uniq:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Check that lists are sorted and uniq
-        run: |
-          find orgs-data -type f | while read f; do
-            sort -u -o "$f" "$f"
-          done
-
-          MODIFIED="$(git status -s)"
-
-          if [ -n "$MODIFIED" ]; then
-            echo "Not sorted uniq files:"
-            echo "$MODIFIED"
-            exit 1
-          fi
+      - name: check sort and uniq
+        run: ./scripts/workflows/sort-uniq.sh
 
   forget-nothing:
     runs-on: ubuntu-latest
