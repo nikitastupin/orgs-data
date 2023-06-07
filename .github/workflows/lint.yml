@@ -51,8 +51,8 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'push' || github.event_name == 'pull_request'
     env:
-      BEFORE: ${{ github.event.before || github.event.pull_request.base.sha }}
-      AFTER:  ${{ github.event.after  || github.event.pull_request.head.sha }}
+      BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
+      AFTER:  ${{ github.event.pull_request.head.sha || github.event.after }}
     steps:
       - uses: actions/checkout@v3
         with:
