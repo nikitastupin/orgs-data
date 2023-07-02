@@ -62,9 +62,9 @@ https://hackenproof.com/exmo/exmo	-
 https://hackenproof.com/exzo-network/exzo-network-protocol	https://github.com/ExzoNetwork
 https://hackenproof.com/exzo-network/exzo-network-wallet	https://hackenproof.com/exzo-network/exzo-network-protocol
 https://hackenproof.com/exzo-network/exzo-network-web-and-api	https://hackenproof.com/exzo-network/exzo-network-protocol
-https://hackenproof.com/filmio/filmio-smart-contract	-
-https://hackenproof.com/filmio/filmio-smart-contracts	?
-https://hackenproof.com/filmio/filmio-web-and-api	-
+https://hackenproof.com/filmio/filmio-smart-contract	https://hackenproof.com/filmio/filmio-smart-contracts
+https://hackenproof.com/filmio/filmio-smart-contracts	https://github.com/Filmio-Inc
+https://hackenproof.com/filmio/filmio-web-and-api	https://hackenproof.com/filmio/filmio-smart-contracts
 https://hackenproof.com/fitburn/fitburn-smart-contracts	https://github.com/FitburnEngineering
 https://hackenproof.com/fitburn/fitburn-web-and-mobile	https://hackenproof.com/fitburn/fitburn-smart-contracts
 https://hackenproof.com/fox-foundation/shapeshift	https://github.com/shapeshift
@@ -95,11 +95,11 @@ https://hackenproof.com/kuna/kuna-crypto-exchange	https://github.com/kunadevelop
 https://hackenproof.com/latoken/lachain-dot-io	https://hackenproof.com/latoken/latoken-exchange
 https://hackenproof.com/latoken/latoken-exchange	https://github.com/LAToken
 https://hackenproof.com/lcx/lcx	https://github.com/LCX-AG
-https://hackenproof.com/letsexchange/letsexchange-web-and-api	?
+https://hackenproof.com/letsexchange/letsexchange-web-and-api	https://github.com/Letsexchange
 https://hackenproof.com/local-traders/local-traders-smart-contracts	https://github.com/localtradersteam
 https://hackenproof.com/myetherwallet/enkrypt-wallet	https://github.com/enkryptcom
 https://hackenproof.com/myetherwallet/myetherwallet	https://hackerone.com/myetherwallet
-https://hackenproof.com/near/near-foundation-web-low	?
+https://hackenproof.com/near/near-foundation-web-low	https://hackenproof.com/near/near-protocol
 https://hackenproof.com/near/near-protocol	https://github.com/NEARFoundation
 https://hackenproof.com/near/near-protocol	https://github.com/near
 https://hackenproof.com/near/near-protocol	https://github.com/near-examples
