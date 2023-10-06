@@ -8,14 +8,14 @@ runs:
     - name: before
       run: |
         git checkout "$BEFORE"
-        "${{ github.action_path }}/../../scripts/all-orgs.sh" > /tmp/before
+        "${{ github.action_path }}/all-orgs.sh" > /tmp/before
       shell: bash
       env:
         BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
     - name: after
       run: |
         git checkout "$AFTER"
-        "${{ github.action_path }}/../../scripts/all-orgs.sh" > /tmp/after
+        "${{ github.action_path }}/all-orgs.sh" > /tmp/after
       shell: bash
       env:
         AFTER:  ${{ github.event.pull_request.head.sha || github.event.after }}
