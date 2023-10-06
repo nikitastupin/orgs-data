@@ -1,0 +1,8 @@
+name: tabs
+runs:
+  using: composite
+  steps:
+    - uses: actions/checkout@v3
+    - name: check no spaces
+      run: '! grep -r -F " " orgs-data'
+      shell: bash
