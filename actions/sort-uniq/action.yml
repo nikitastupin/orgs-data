@@ -4,5 +4,5 @@ runs:
   steps:
     - uses: actions/checkout@v3
     - name: check sort and uniq
-      run: "./${{ github.action_path }}/scripts/workflows/sort-uniq.sh"
+      run: "${{ github.action_path }}/sort-uniq.sh"
       shell: bash
