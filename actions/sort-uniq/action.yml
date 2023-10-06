@@ -1,0 +1,8 @@
+name: sort-uniq
+runs:
+  using: composite
+  steps:
+    - uses: actions/checkout@v3
+    - name: check sort and uniq
+      run: ./scripts/workflows/sort-uniq.sh
+      shell: bash
