@@ -19,52 +19,20 @@ jobs:
   tabs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: check no spaces
-        run: '! grep -r -F " " orgs-data'
-
-  columns-and-content:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: install trurl
-        run: |
-          sudo apt install libcurl4-openssl-dev
-          pushd .
-          git clone https://github.com/curl/trurl
-          cd trurl
-          make
-          sudo cp trurl /usr/local/bin
-          popd
-          rm -rf trurl
-      - name: check columns and content
-        run: ./scripts/workflows/columns-and-content.sh
+      - uses: nikitastupin/orgs-data/actions/tabs@main
 
   sort-uniq:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: check sort and uniq
-        run: ./scripts/workflows/sort-uniq.sh
+      - uses: nikitastupin/orgs-data/actions/sort-uniq@main
+
+  columns-and-content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: nikitastupin/orgs-data/actions/columns-and-content@main
 
   forget-nothing:
     runs-on: ubuntu-latest
     if: github.event_name == 'push' || github.event_name == 'pull_request'
-    env:
-      BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
-      AFTER:  ${{ github.event.pull_request.head.sha || github.event.after }}
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: before
-        run: |
-          git checkout "$BEFORE"
-          ./scripts/all-orgs.sh > /tmp/before
-      - name: after
-        run: |
-          git checkout "$AFTER"
-          ./scripts/all-orgs.sh > /tmp/after
-      - name: diff
-        run: |
-          [ -z "$(comm -23 /tmp/before /tmp/after)" ]
+      - uses: nikitastupin/orgs-data/actions/forget-nothing@main
