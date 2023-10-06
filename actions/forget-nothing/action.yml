@@ -15,7 +15,7 @@ runs:
     - name: after
       run: |
         git checkout "$AFTER"
-        ./scripts/all-orgs.sh > /tmp/after
+        "${{ github.action_path }}/../../scripts/all-orgs.sh" > /tmp/after
       shell: bash
       env:
         AFTER:  ${{ github.event.pull_request.head.sha || github.event.after }}
