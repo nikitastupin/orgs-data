@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 
-readonly DATA_DIR='orgs-data'
+readonly DATA_DIR="$(realpath orgs-data)"
 
-find "$DATA_DIR/orgs-data" -type f  \
+echo "info: $DATA_DIR" >&2
+
+find "$DATA_DIR" -type f  \
   | xargs cat                       \
   | cut -f 2                        \
   | grep -E '^https://github\.com/' \
