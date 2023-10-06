@@ -1,0 +1,26 @@
+name: forget-nothing
+runs:
+  using: composite
+  env:
+    BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
+    AFTER:  ${{ github.event.pull_request.head.sha || github.event.after }}
+  if: github.event_name == 'push' || github.event_name == 'pull_request'
+  steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - name: before
+      run: |
+        git checkout "$BEFORE"
+        ./scripts/all-orgs.sh > /tmp/before
+      shell: bash
+    - name: after
+      run: |
+        git checkout "$AFTER"
+        ./scripts/all-orgs.sh > /tmp/after
+      shell: bash
+    - name: diff
+      run: |
+        [ -z "$(comm -23 /tmp/before /tmp/after)" ]
+      shell: bash
+      

@@ -1,0 +1,19 @@
+name: columns-and-content
+runs:
+  using: composite
+  steps:
+    - uses: actions/checkout@v3
+    - name: install trurl
+      run: |
+        sudo apt install libcurl4-openssl-dev
+        pushd .
+        git clone https://github.com/curl/trurl
+        cd trurl
+        make
+        sudo cp trurl /usr/local/bin
+        popd
+        rm -rf trurl
+      shell: bash
+    - name: check columns and content
+      run: "${{ github.action_path }}/columns-and-content.sh"
+      shell: bash
