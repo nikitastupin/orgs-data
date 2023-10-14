@@ -5,7 +5,8 @@ runs:
     - uses: actions/checkout@v3
     - name: install trurl
       run: |
-        sudo apt install libcurl4-openssl-dev
+        sudo apt-get update
+        sudo apt-get install libcurl4-openssl-dev
         pushd .
         git clone https://github.com/curl/trurl
         cd trurl
