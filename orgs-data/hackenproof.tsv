@@ -16,10 +16,10 @@ https://hackenproof.com/avalanche/avalanche-general	https://github.com/n-avalanc
 https://hackenproof.com/avalanche/avalanche-protocol	https://hackenproof.com/avalanche/avalanche-general
 https://hackenproof.com/avalanche/avalanche-websites-and-apis	https://hackenproof.com/avalanche/avalanche-general
 https://hackenproof.com/avalanche/core	https://hackenproof.com/avalanche/avalanche-general
-https://hackenproof.com/avalanche/deprecated-avalanche-bridge	?
-https://hackenproof.com/avalanche/deprecated-avalanche-protocol	?
-https://hackenproof.com/avalanche/deprecated-avalanche-websites-and-apis	?
-https://hackenproof.com/avalanche/deprecated-core	?
+https://hackenproof.com/avalanche/deprecated-avalanche-bridge	https://hackenproof.com/avalanche
+https://hackenproof.com/avalanche/deprecated-avalanche-protocol	https://hackenproof.com/avalanche
+https://hackenproof.com/avalanche/deprecated-avalanche-websites-and-apis	https://hackenproof.com/avalanche
+https://hackenproof.com/avalanche/deprecated-core	https://hackenproof.com/avalanche
 https://hackenproof.com/bigone-global-exchange/bigone-global-exchange	https://github.com/bigone-eng
 https://hackenproof.com/bingx/bingx-exchange	https://github.com/BingX-API
 https://hackenproof.com/bit-crypto-exchange/bit-dot-com	https://github.com/bitcom-exchange
@@ -118,7 +118,7 @@ https://hackenproof.com/lcx/lcx	https://github.com/LCX-AG
 https://hackenproof.com/letsexchange/letsexchange-web-and-api	https://github.com/Letsexchange
 https://hackenproof.com/linen/linen-api-and-mobile	https://github.com/linen-app
 https://hackenproof.com/local-traders/local-traders-smart-contracts	https://github.com/localtradersteam
-https://hackenproof.com/metis/metis-smart-contracts	?
+https://hackenproof.com/metis/metis-smart-contracts	https://immunefi.com/bounty/metis
 https://hackenproof.com/myetherwallet/enkrypt-wallet	https://github.com/enkryptcom
 https://hackenproof.com/myetherwallet/myetherwallet	https://hackerone.com/myetherwallet
 https://hackenproof.com/near/near-foundation-web-low	https://hackenproof.com/near/near-protocol
