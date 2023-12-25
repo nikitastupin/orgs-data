@@ -205,11 +205,14 @@ https://security.dji.com/policy?lang=en_US	https://github.com/RoboMaster	3528527
 https://security.dji.com/policy?lang=en_US	https://github.com/dji-sdk	11917623
 https://security.filecoin.io/bug-bounty/	https://github.com/filecoin-project	22014611
 https://security.filecoin.io/bug-bounty/	https://github.com/filecoin-shipyard	54015718
+https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedIn-Data-Scientist-and-Analyst	137864894
+https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedIn-HFUS	90007066
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedIn-Multiproducts	55213015
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedInAttic	38112394
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedInLearning	28577987
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/li-egrp	50497667
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedin	357098
+https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedin-developers	48452434
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedin-nyc	18022023
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedinlabs	47161993
 https://security.midas.network/reporting	-	-
@@ -218,12 +221,21 @@ https://security.remitano.com/	https://github.com/remitano	11909623
 https://security.samsungmobile.com/securityReporting.smsb	https://hackerone.com/samsungmobile	-
 https://silvergoldbull.com/bug-bounty/	-	-
 https://slack.com/report-vulnerability	https://hackerone.com/slack	-
+https://snyk.io/docs/security	https://github.com/SNYK-SE	33134926
 https://snyk.io/docs/security	https://github.com/snyk	12959162
+https://snyk.io/docs/security	https://github.com/snyk-bizops	84828466
+https://snyk.io/docs/security	https://github.com/snyk-code-support	78825785
+https://snyk.io/docs/security	https://github.com/snyk-gtm-automation	78281218
 https://snyk.io/docs/security	https://github.com/snyk-it	73139923
 https://snyk.io/docs/security	https://github.com/snyk-labs	47793611
 https://snyk.io/docs/security	https://github.com/snyk-marketing	77294156
 https://snyk.io/docs/security	https://github.com/snyk-partners	39300193
+https://snyk.io/docs/security	https://github.com/snyk-playground	36450831
+https://snyk.io/docs/security	https://github.com/snyk-sandbox	45196845
+https://snyk.io/docs/security	https://github.com/snyk-snippets	120304284
 https://snyk.io/docs/security	https://github.com/snyk-tech-services	60094082
+https://snyk.io/docs/security	https://github.com/snyk-terraform-assets	127957428
+https://snyk.io/docs/security	https://github.com/snyk-workshops	125677496
 https://sociality.io/security/#responsible-disclosure/	-	-
 https://staked.us/bug-bounty/	https://github.com/Stakedllc	38704373
 https://stripe.com/docs/security/stripe	https://hackerone.com/stripe	-
@@ -281,6 +293,7 @@ https://www.adquick.com/disclosure	https://github.com/adquick	29661073
 https://www.agsairports.co.uk/report-a-vulnerability/	-	-
 https://www.aholddelhaize.com/en/security/	-	-
 https://www.airmiles.nl/responsible-disclosure	-	-
+https://www.airship.com/legal/full-disclosure-security-policy/	https://github.com/urbanairship	360059
 https://www.alwaysdata.com/en/bug-bounty/	https://github.com/alwaysdata	1856626
 https://www.amr.net/site/privacy-policy	https://github.com/AMR-EMS-AMBULANCE-CANYON-COUNTY	58102449
 https://www.apache.org/security/	https://hackerone.com/ibb	-
@@ -349,6 +362,7 @@ https://www.docker.com/legal/security	https://github.com/docker-library	7739233
 https://www.dssw.co.uk/readme/security.html	https://github.com/DssW	318333
 https://www.duolingo.com/privacy/	https://github.com/Duolingo-s-Team	74678376
 https://www.duolingo.com/privacy/	https://github.com/duolingo	908687
+https://www.eccouncil.org/bug-bounty/	https://github.com/ec-council-learning	53864074
 https://www.edas.info/doc/disclosure.html	-	-
 https://www.eset.com/int/security-vulnerability-reporting/	https://github.com/eset	4834527
 https://www.etsi.org/standards/coordinated-vulnerability-disclosure	https://github.com/etsi-webinar	78878264
@@ -513,6 +527,7 @@ https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-pro
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/MicroStrategy	6561523
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/mstr-dev	12275265
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/mstr-devops	11091365
+https://www.mindstronghealth.com/security-policy.html	https://github.com/mindstrong	12160845
 https://www.missguided.co.uk/responsible-disclosure	-	-
 https://www.monetha.io/bounty	-	-
 https://www.mozilla.org/en-US/security/bug-bounty/	-	-
@@ -545,6 +560,7 @@ https://www.parabol.co/security-disclosure	https://github.com/ParabolInc	1416956
 https://www.parity.io/bug-bounty/	https://github.com/parity-contracts	37372767
 https://www.parity.io/bug-bounty/	https://github.com/parity-js	35567017
 https://www.parity.io/bug-bounty/	https://github.com/paritytech	14176906
+https://www.parity.io/bug-bounty/	https://github.com/paritytech-webops	74656669
 https://www.particle.io/legal/responsible-disclosure/	https://github.com/particle-iot	2348966
 https://www.partnerstack.com/policies#security-practices	-	-
 https://www.pastecoin.com/bug_bounty	-	-
@@ -662,19 +678,3 @@ https://zksync.io/dev/bug-bounty.html	https://github.com/matter-labs	42489169
 https://zksync.io/dev/bug-bounty.html	https://github.com/zksync-sdk	73895099
 https://zoom.us/docs/en-us/vulnerability-disclosure-policy.html	https://github.com/zoom	29114944
 https://zoom.us/docs/en-us/vulnerability-disclosure-policy.html	https://github.com/zoom-us	42408067
-https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedin-developers
-https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedIn-Data-Scientist-and-Analyst
-https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/LinkedIn-HFUS
-https://www.mindstronghealth.com/security-policy.html	https://github.com/mindstrong
-https://www.eccouncil.org/bug-bounty/	https://github.com/ec-council-learning
-https://www.parity.io/bug-bounty/	https://github.com/paritytech-webops
-https://snyk.io/docs/security	https://github.com/snyk-playground
-https://snyk.io/docs/security	https://github.com/snyk-sandbox
-https://snyk.io/docs/security	https://github.com/snyk-snippets
-https://snyk.io/docs/security	https://github.com/snyk-workshops
-https://snyk.io/docs/security	https://github.com/SNYK-SE
-https://snyk.io/docs/security	https://github.com/snyk-terraform-assets
-https://snyk.io/docs/security	https://github.com/snyk-code-support
-https://snyk.io/docs/security	https://github.com/snyk-gtm-automation
-https://snyk.io/docs/security	https://github.com/snyk-bizops
-https://www.airship.com/legal/full-disclosure-security-policy/	https://github.com/urbanairship
