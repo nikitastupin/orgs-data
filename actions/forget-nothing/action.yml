@@ -21,6 +21,9 @@ runs:
         AFTER:  ${{ github.event.pull_request.head.sha || github.event.after }}
     - name: diff
       run: |
-        [ -z "$(comm -23 /tmp/before /tmp/after)" ]
+        if [ -n "$(comm -23 /tmp/before /tmp/after)" ]; then
+          comm -23 /tmp/before /tmp/after
+          exit 1
+        fi
       shell: bash
       
