@@ -8,5 +8,5 @@ find "$DATA_DIR" -type f  \
   | xargs cat                       \
   | cut -f 2                        \
   | grep -E '^https://github\.com/' \
-  | sort -u                         \
-  | cut -d / -f 4
+  | cut -d / -f 4                   \
+  | sort -u 
