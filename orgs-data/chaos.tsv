@@ -80,6 +80,7 @@ https://explore.researchgate.net/display/support/Security+and+vulnerability	-	-
 https://explore.zoom.us/docs/ent/h1.html	https://zoom.us/docs/en-us/vulnerability-disclosure-policy.html	-
 https://github.com/grafana/bugbounty	https://github.com/grafana	7195757
 https://github.com/swisscom/bugbounty	https://hackerone.com/swisscom	-
+https://global.com/bug-bounty-policy/	?
 https://gobugfree.com/programs/bbh	https://app.gobugfree.com/programs/bbh	-
 https://gobugfree.com/programs/fidentity	https://app.gobugfree.com/programs/fidentity	-
 https://gobugfree.com/programs/netplus	-	-
@@ -88,8 +89,10 @@ https://gobugfree.com/programs/threema	https://app.gobugfree.com/programs/threem
 https://grofers.com/bug-bounty	https://github.com/grofers	8791674
 https://grofers.com/bug-bounty	https://github.com/grofers-labs	71882059
 https://groww.in/p/security/	https://github.com/Groww	46338701
+https://hackenproof.com/1inch/1inch-smart-contract	https://hackenproof.com/1inch/1inch-smart-contract
 https://hackenproof.com/aax/aax	https://hackenproof.com/aax/aax	-
 https://hackenproof.com/allbridge/allbridge	https://hackenproof.com/allbridge/allbridge	-
+https://hackenproof.com/alphax/alphax-exchange	https://hackenproof.com/alphax/alphax-exchange
 https://hackenproof.com/assetmantle/assetmantle	https://hackenproof.com/assetmantle/assetmantle	-
 https://hackenproof.com/asymetrix	https://hackenproof.com/asymetrix/asymetrix-protocol	-
 https://hackenproof.com/aurora	https://immunefi.com/bounty/aurora	-
@@ -103,11 +106,15 @@ https://hackenproof.com/bitdelta/bitdelta-web	https://hackenproof.com/bitdelta/b
 https://hackenproof.com/bitexen	https://hackenproof.com/bitexen/bitexen-bugbounty-program	-
 https://hackenproof.com/bitforex/bitforex	https://hackenproof.com/bitforex/bitforex	-
 https://hackenproof.com/bitkub/bitkub	https://hackenproof.com/bitkub/bitkub	-
+https://hackenproof.com/bitmart-exchange	?
 https://hackenproof.com/bitmart-exchange/bitmart-exchange	https://hackenproof.com/bitmart-exchange/bitmart-exchange	-
 https://hackenproof.com/bitrue/bitrue	https://github.com/Bitrue-exchange	42887422
 https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	-
+https://hackenproof.com/bittrex	?
 https://hackenproof.com/bittrex/bittrex	https://hackenproof.com/bittrex/bittrex	-
 https://hackenproof.com/bkex/bkex	https://hackenproof.com/bkex/bkex	-
+https://hackenproof.com/blofin/blofin-web-and-mobile	https://hackenproof.com/blofin/blofin-web-and-mobile
+https://hackenproof.com/blueberry-protocol-foundation/blueberry-protocol-smart-contracts	https://hackenproof.com/blueberry-protocol-foundation/blueberry-protocol-smart-contracts
 https://hackenproof.com/btse/btse-bug-bounty-program	https://hackenproof.com/btse/btse-bug-bounty-program	-
 https://hackenproof.com/camino-network/camino-protocol	https://hackenproof.com/camino-network/camino-protocol	-
 https://hackenproof.com/chainstack/chainstack	https://hackenproof.com/chainstack/chainstack	-
@@ -121,15 +128,18 @@ https://hackenproof.com/coinstore/coinstore	https://hackenproof.com/coinstore/co
 https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api	https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api	-
 https://hackenproof.com/coinw/coinw-web-and-mobile	https://hackenproof.com/coinw/coinw-web-and-mobile	-
 https://hackenproof.com/cryptology/cryptology	https://hackenproof.com/cryptology/cryptology	-
+https://hackenproof.com/deepcoin/deepcoin-web-and-mobile	https://hackenproof.com/deepcoin/deepcoin-web-and-mobile
 https://hackenproof.com/deltaprime/deltaprime-smart-contracts	https://hackenproof.com/deltaprime/deltaprime-smart-contracts	-
 https://hackenproof.com/dex-trade/dex-trade	https://hackenproof.com/dex-trade/dex-trade	-
 https://hackenproof.com/dexalot	https://hackenproof.com/dexalot/dexalot-smart-contracts	-
 https://hackenproof.com/dexalot/dexalot-smart-contracts	https://hackenproof.com/dexalot/dexalot-smart-contracts	-
+https://hackenproof.com/dexe-protocol/dexe-protocol-smart-contracts	https://hackenproof.com/dexe-protocol/dexe-protocol-smart-contracts
 https://hackenproof.com/difx/difx	https://hackenproof.com/difx/difx	-
 https://hackenproof.com/dodoex	https://immunefi.com/bounty/dodo	-
 https://hackenproof.com/envelop/envelop-smart-contracts	https://hackenproof.com/envelop/envelop-smart-contracts	-
 https://hackenproof.com/evaa	https://hackenproof.com/evaa/evaa-smart-contracts	-
 https://hackenproof.com/exmo/exmo	https://hackenproof.com/exmo/exmo	-
+https://hackenproof.com/exzi/exzi-web-and-mobile	https://hackenproof.com/exzi/exzi-web-and-mobile
 https://hackenproof.com/fastex/fastex-web	https://hackenproof.com/fastex/fastex-web	-
 https://hackenproof.com/filmio	https://hackenproof.com/filmio/filmio-smart-contract	-
 https://hackenproof.com/fitburn/fitburn-web-and-mobile	https://hackenproof.com/fitburn/fitburn-web-and-mobile	-
@@ -137,8 +147,10 @@ https://hackenproof.com/fox-foundation/shapeshift	https://hackenproof.com/fox-fo
 https://hackenproof.com/ftx/ftx-exchange	https://hackenproof.com/ftx/ftx-exchange	-
 https://hackenproof.com/gate-dot-io/gate-dot-io-exchange	https://hackenproof.com/gate-dot-io/gate-dot-io-exchange	-
 https://hackenproof.com/hacken/hackenproof	https://hackenproof.com/hacken/hackenproof	-
+https://hackenproof.com/horizon-protocol/horizon-protocol-smart-contracts	https://hackenproof.com/horizon-protocol/horizon-protocol-smart-contracts
 https://hackenproof.com/hotbit/hotbit	https://hackenproof.com/hotbit/hotbit	-
 https://hackenproof.com/huobi-global/huobi	https://hackenproof.com/huobi-global/huobi	-
+https://hackenproof.com/impermax-finance/impermax-finance-smart-contracts	https://hackenproof.com/impermax-finance/impermax-finance-smart-contracts
 https://hackenproof.com/iotex/iotex	https://hackenproof.com/iotex/iotex	-
 https://hackenproof.com/jojo/jojo-web	https://hackenproof.com/jojo/jojo-web	-
 https://hackenproof.com/kinza/kinza-smart-contracts	https://hackenproof.com/kinza/kinza-smart-contracts	-
@@ -150,8 +162,10 @@ https://hackenproof.com/latoken/latoken-exchange	https://hackenproof.com/latoken
 https://hackenproof.com/lcx/lcx	https://hackenproof.com/lcx/lcx	-
 https://hackenproof.com/letsexchange/letsexchange-web-and-api	https://hackenproof.com/letsexchange/letsexchange-web-and-api	-
 https://hackenproof.com/local-traders/local-traders-smart-contracts	https://hackenproof.com/local-traders/local-traders-smart-contracts	-
+https://hackenproof.com/metamask/metamask-validator-staking-smart-contracts	?
 https://hackenproof.com/metis/metis-smart-contracts	https://hackenproof.com/metis/metis-smart-contracts	-
 https://hackenproof.com/myetherwallet	https://hackenproof.com/myetherwallet/enkrypt-wallet	-
+https://hackenproof.com/mysten-labs/sui-wallet	https://hackenproof.com/mysten-labs/sui-wallet
 https://hackenproof.com/near	https://hackenproof.com/near/near-protocol	-
 https://hackenproof.com/nicehash	https://hackenproof.com/nicehash/nicehash-shop	-
 https://hackenproof.com/nxt-technologies/nxt-permission-smart-contract	https://hackenproof.com/nxt-technologies/nxt-permission-smart-contract	-
@@ -164,10 +178,14 @@ https://hackenproof.com/pionex/pionex-app-and-api	https://hackenproof.com/pionex
 https://hackenproof.com/plisio/plisio	https://hackenproof.com/plisio/plisio	-
 https://hackenproof.com/pointpay/pointpay-web-and-mobile	https://hackenproof.com/pointpay/pointpay-web-and-mobile	-
 https://hackenproof.com/polkalokr/polkalokr-1	https://hackenproof.com/polkalokr/polkalokr-1	-
+https://hackenproof.com/poloniex/poloniex-web-and-api	?
+https://hackenproof.com/polygon-technology/polygon-pos	https://hackenproof.com/polygon-technology/polygon-pos
 https://hackenproof.com/probit-global/probit-web-and-mobile	https://hackenproof.com/probit-global/probit-web-and-mobile	-
 https://hackenproof.com/pumb-dot-ua	https://hackenproof.com/pumb-dot-ua/payhub-web	-
 https://hackenproof.com/router/router-web	https://hackenproof.com/router/router-web	-
+https://hackenproof.com/shido/shido-network-protocol	https://hackenproof.com/shido/shido-network-protocol
 https://hackenproof.com/smardex/smardex-smart-contracts	https://hackenproof.com/smardex/smardex-smart-contracts	-
+https://hackenproof.com/smilee/smilee-smart-contracts	?
 https://hackenproof.com/status-dot-im/status	https://hackenproof.com/status-dot-im/status	-
 https://hackenproof.com/status-dot-im/waku	https://hackenproof.com/status-dot-im/waku	-
 https://hackenproof.com/sui/sui-protocol	https://hackenproof.com/sui/sui-protocol	-
@@ -176,9 +194,12 @@ https://hackenproof.com/ternoa	https://hackenproof.com/ternoa/ternoa-smart-contr
 https://hackenproof.com/ternoa/ternoa-web-and-apps	https://hackenproof.com/ternoa/ternoa-web-and-apps	-
 https://hackenproof.com/tetu/tetu-smart-contracts	https://hackenproof.com/tetu/tetu-smart-contracts	-
 https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui	https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui	-
+https://hackenproof.com/tokenize-xchange/tokenize-xchange-web-and-mobile	?
+https://hackenproof.com/ton-diamonds/ton-diamonds-web	https://hackenproof.com/ton-diamonds/ton-diamonds-web
 https://hackenproof.com/toobit/toobit-web-and-mobile	https://hackenproof.com/toobit/toobit-web-and-mobile	-
 https://hackenproof.com/trustee/trustee-plus-mobile	https://hackenproof.com/trustee/trustee-plus-mobile	-
 https://hackenproof.com/uacatsdivision	https://hackenproof.com/uacatsdivision/uacatsdivision-web	-
+https://hackenproof.com/unicorn-ultra/u2staking-web	https://hackenproof.com/unicorn-ultra/u2staking-web
 https://hackenproof.com/vaultka/vaultka-smart-contracts	https://hackenproof.com/vaultka/vaultka-smart-contracts	-
 https://hackenproof.com/vechain	https://hackenproof.com/vechain/vechainthor	-
 https://hackenproof.com/vertex-protocol	https://hackenproof.com/vertex-protocol/vertex-web	-
@@ -186,6 +207,7 @@ https://hackenproof.com/virtuswap/virtuswap-dex-app-1	https://hackenproof.com/vi
 https://hackenproof.com/whitebit/whitebit	https://hackenproof.com/whitebit/whitebit	-
 https://hackenproof.com/whitemarket/whitemarket-web	https://hackenproof.com/whitemarket/whitemarket-web	-
 https://hackenproof.com/xt/xt	https://hackenproof.com/xt/xt	-
+https://hackenproof.com/zetachain	?
 https://help.pythonanywhere.com/pages/BugBounty	https://github.com/pythonanywhere	181511
 https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy	+	-
 https://help.tryhackme.com/en/articles/6495946-the-bug-bounty-program	https://help.tryhackme.com/miscellaneous/the-bug-bounty-programme	-
