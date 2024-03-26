@@ -44,7 +44,7 @@ https://asana.com/bounty	https://bugcrowd.com/asana	-
 https://augur.net/blog/v2-bug-bounty/	https://github.com/AugurProject	9636524
 https://azimo.com/en/lp/responsible-disclosure	https://github.com/AzimoLabs	16606655
 https://bitcoingold.org/responsible-disclosure/	https://github.com/BTCGPU	30379205
-https://bitcoingold.org/responsible-disclosure/ https://github.com/BitcoinGold-mining	40062356	-
+https://bitcoingold.org/responsible-disclosure/ https://github.com/BitcoinGold-mining	40062356
 https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program	https://github.com/BladeStorm-Project	67523493
 https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7	https://github.com/airswap	26823563
 https://blog.aragon.org/aragon-network-bug-bounty/	https://github.com/aragon	24612534
@@ -162,7 +162,7 @@ https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy	http
 https://hitbtc.com/bug-report	https://github.com/HITBTC-Arrange	46569513
 https://home.bluesnap.com/security-bounty/	https://github.com/bluesnap	17125871
 https://hunter.io/security-bounty-program	https://github.com/hunter-io	12171627
-https://immutablesoft.github.io/ImmutableEcosystem/ https://github.com/ImmutableSoft	60671789	-
+https://immutablesoft.github.io/ImmutableEcosystem/ https://github.com/ImmutableSoft	60671789
 https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea	https://github.com/InfStones-com	39546647
 https://ironcorelabs.com/trust-center/bug-bounty-program	https://github.com/IronCoreLabs	11394047
 https://jackaldao.medium.com/announcement-jackal-bug-bounty-program-31d4e03ab7e2	https://github.com/JackalLabs	107951994
@@ -176,12 +176,12 @@ https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program	https://github.c
 https://leetcode.com/bugbounty/	https://github.com/LeetCode-OpenSource	41718343
 https://leetcode.com/bugbounty/	https://github.com/leetcode	37351657
 https://leetcode.com/bugbounty/	https://github.com/leetcode-js	52997525
-https://leetcode.com/bugbounty/ https://github.com/LeetCode-Feedback	61685775	-
-https://leetcode.com/bugbounty/ https://github.com/LeetCodeSolution	37416121	-
-https://leetcode.com/bugbounty/ https://github.com/LeetcodeLab	44920358	-
-https://leetcode.com/bugbounty/ https://github.com/leetcode-cn	42017658	-
-https://leetcode.com/bugbounty/ https://github.com/leetcode-golang-classroom	105283000	-
-https://leetcode.com/bugbounty/ https://github.com/leetcode-tools	48126122	-
+https://leetcode.com/bugbounty/ https://github.com/LeetCode-Feedback	61685775
+https://leetcode.com/bugbounty/ https://github.com/LeetCodeSolution	37416121
+https://leetcode.com/bugbounty/ https://github.com/LeetcodeLab	44920358
+https://leetcode.com/bugbounty/ https://github.com/leetcode-cn	42017658
+https://leetcode.com/bugbounty/ https://github.com/leetcode-golang-classroom	105283000
+https://leetcode.com/bugbounty/ https://github.com/leetcode-tools	48126122
 https://lisk.io/bug-bounty-program	https://github.com/LiskHQ	16600915
 https://lisk.io/bug-bounty-program	https://github.com/liskcenterutrecht	54061777
 https://managewp.com/white-hat-reward	https://github.com/ManageWP	6010192
@@ -403,7 +403,7 @@ https://www.facebook.com/BugBounty/	https://hackerone.com/facebook	-
 https://www.facebook.com/whitehat	https://hackerone.com/facebook	-
 https://www.factorialhr.com/security/	https://github.com/factorialco	21041797
 https://www.fair.com/bug-bounty	https://github.com/wearefair	20525756
-https://www.fair.com/bug-bounty https://github.com/fairdk	11066226	-
+https://www.fair.com/bug-bounty https://github.com/fairdk	11066226
 https://www.fanduel.com/security	https://hackerone.com/fanduel	-
 https://www.fastmail.com/about/bugbounty.html	https://github.com/fastmail	4554886
 https://www.fastmail.com/about/bugbounty.html	https://github.com/fastmailops	13395145
@@ -516,7 +516,7 @@ https://www.heroku.com/policy/security	https://github.com/heroku2use	36332908
 https://www.heroku.com/policy/security	https://github.com/herokumx	13485583
 https://www.heroku.com/policy/security	https://github.com/herokumx-team	20133863
 https://www.heroku.com/policy/security	https://github.com/kissaten	8441408
-https://www.hex-rays.com/bugbounty/ https://github.com/HexRaysSA	122276041	-
+https://www.hex-rays.com/bugbounty/ https://github.com/HexRaysSA	122276041
 https://www.home-assistant.io/security/	https://github.com/home-assistant	13844975
 https://www.home-assistant.io/security/	https://github.com/home-assistant-community-themes	54588755
 https://www.home-assistant.io/security/	https://github.com/home-assistant-libs	63743711
