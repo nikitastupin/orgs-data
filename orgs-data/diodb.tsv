@@ -39,11 +39,13 @@ https://airvpn.org/security_policy/	-	-
 https://alscotoday.com/go/bug	-	-
 https://app.usabilityhub.com/security/responsible_disclosure	https://github.com/usabilityhub	16235092
 https://ark.io/blog/ark-development-and-security-bounty-program-arkio-blog	https://github.com/ArkEcosystem	22457396
-https://asana.com/bounty	https://github.com/Asana	1472111
+https://ark.io/blog/ark-development-and-security-bounty-program-arkio-blog  https://github.com/ArkEcosystemArchive
+https://asana.com/bounty    https://bugcrowd.com/asana
 https://augur.net/blog/v2-bug-bounty/	https://github.com/AugurProject	9636524
 https://azimo.com/en/lp/responsible-disclosure	https://github.com/AzimoLabs	16606655
 https://bitcoingold.org/responsible-disclosure/	https://github.com/BTCGPU	30379205
-https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program	-	-
+https://bitcoingold.org/responsible-disclosure/ https://github.com/BitcoinGold-mining
+https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program    https://github.com/BladeStorm-Project
 https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7	https://github.com/airswap	26823563
 https://blog.aragon.org/aragon-network-bug-bounty/	https://github.com/aragon	24612534
 https://bounty.decred.org/	https://github.com/dcrlabs	25960339
@@ -299,7 +301,7 @@ https://www.adp.com/about-adp/data-security.aspx	https://github.com/adplabs	7968
 https://www.adp.com/about-adp/data-security.aspx	https://github.com/adpllc	44278832
 https://www.adquick.com/disclosure	https://github.com/adquick	29661073
 https://www.agsairports.co.uk/report-a-vulnerability/	-	-
-https://www.aholddelhaize.com/en/security/	-	-
+https://www.aholddelhaize.com/en/security/	https://github.com/RoyalAholdDelhaize
 https://www.airmiles.nl/responsible-disclosure	-	-
 https://www.airship.com/legal/full-disclosure-security-policy/	https://github.com/urbanairship	360059
 https://www.alwaysdata.com/en/bug-bounty/	https://github.com/alwaysdata	1856626
@@ -325,7 +327,7 @@ https://www.bentley.com/legal/bug-bounty-report/	https://www.bentley.com/respons
 https://www.bentley.com/responsible_disclosure.pdf	https://github.com/BentleySystems	15690960
 https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html	https://hackerone.com/bitdefender	-
 https://www.bitgo.com/bug-bounty	https://github.com/BitGo	6267684
-https://www.bitmex.com/app/security	-	-
+https://www.bitmex.com/app/security https://hackerone.com/bitmex
 https://www.bitski.com/bounty/	https://github.com/BitskiCo	36717558
 https://www.bitsoffreedom.nl/coordinated-vulnerability-disclosure-en/	https://github.com/bitsoffreedom	242932
 https://www.bitwala.com/security/	https://github.com/bitwala	18031571
