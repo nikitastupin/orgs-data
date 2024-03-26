@@ -37,10 +37,10 @@ https://hackerone.com/airbnb	https://github.com/AirbnbProject	41882315
 https://hackerone.com/airbnb	https://github.com/airbnb	698437
 https://hackerone.com/airbnb	https://github.com/airbnb-analysis	152009393
 https://hackerone.com/airbnb	https://github.com/hoteltonight	660281
+https://hackerone.com/airtable	https://github.com/Airtable-Labs	85298577
 https://hackerone.com/airtable	https://github.com/airtable	9687261
-https://hackerone.com/airtable  https://github.com/Airtable-Labs
-https://hackerone.com/airtable  https://github.com/superblocks-at
-https://hackerone.com/airtable  https://github.com/airtablelib
+https://hackerone.com/airtable	https://github.com/airtablelib	77274050
+https://hackerone.com/airtable	https://github.com/superblocks-at	62126154
 https://hackerone.com/aiven_ltd	https://github.com/Aiven-Labs	137087646
 https://hackerone.com/aiven_ltd	https://github.com/aiven	14290521
 https://hackerone.com/alchemyplatform	https://github.com/ChainShot	37715779
@@ -48,7 +48,7 @@ https://hackerone.com/alchemyplatform	https://github.com/OMGWINNING	7953323
 https://hackerone.com/alchemyplatform	https://github.com/alchemyplatform	49798644
 https://hackerone.com/aleo	https://bugcrowd.com/aleo-mbb-og	-
 https://hackerone.com/algolia	https://github.com/algolia	2034458
-https://hackerone.com/algolia   https://github.com/algolia-samples
+https://hackerone.com/algolia	https://github.com/algolia-samples	83692444
 https://hackerone.com/alibaba	https://github.com/AlibabaCloudDocs	38934544
 https://hackerone.com/alibaba	https://github.com/aemsite	34908024
 https://hackerone.com/alibaba	https://github.com/alibaba	1961952
@@ -83,17 +83,17 @@ https://hackerone.com/amazonvrp-devices	-	-
 https://hackerone.com/amber-ai	https://hackerone.com/amber-ai	-
 https://hackerone.com/american_systems_bbp	https://github.com/americansystems	15088609
 https://hackerone.com/arkose_labs	https://bugcrowd.com/arkose-labs	-
+https://hackerone.com/att	https://github.com/ATTAlascom	17132501
+https://hackerone.com/att	https://github.com/ATTHACKSF	16473608
 https://hackerone.com/att	https://github.com/att	3477066
 https://hackerone.com/att	https://github.com/att-cloudnative-labs	47991642
+https://hackerone.com/att	https://github.com/att-comdev	21696220
 https://hackerone.com/att	https://github.com/att-esst	14878554
 https://hackerone.com/att	https://github.com/att-innovate	336110
+https://hackerone.com/att	https://github.com/att-iotstarterkits	43391408
 https://hackerone.com/att	https://github.com/attdevsupport	918803
+https://hackerone.com/att	https://github.com/attiot	20667649
 https://hackerone.com/att	https://github.com/attm2x	80206956
-https://hackerone.com/att   https://github.com/att-comdev
-https://hackerone.com/att   https://github.com/ATTHACKSF
-https://hackerone.com/att   https://github.com/attiot
-https://hackerone.com/att   https://github.com/att-iotstarterkits
-https://hackerone.com/att   https://github.com/ATTAlascom
 https://hackerone.com/automattic	https://github.com/Automattic	887802
 https://hackerone.com/automattic	https://github.com/tumblr	366151
 https://hackerone.com/automattic	https://github.com/woocommerce	473596
@@ -102,11 +102,11 @@ https://hackerone.com/basecamp	https://github.com/basecamp	13131
 https://hackerone.com/binary	https://github.com/binary-com	7437559
 https://hackerone.com/bitaccess	https://github.com/bitaccess	7866774
 https://hackerone.com/bitmex	https://github.com/BitMEX	6471318
-https://hackerone.com/bitmex    https://github.com/BitMEX-private
-https://hackerone.com/bitmex    https://github.com/bitmex-candidates
-https://hackerone.com/bitmex    https://github.com/bitmex-bmx-genesis
-https://hackerone.com/bitmex    https://github.com/bitmex-private-user
-https://hackerone.com/bitmex    https://github.com/BitMEX-old-enterprise-archive
+https://hackerone.com/bitmex	https://github.com/BitMEX-old-enterprise-archive	127123847
+https://hackerone.com/bitmex	https://github.com/BitMEX-private	126157566
+https://hackerone.com/bitmex	https://github.com/bitmex-bmx-genesis	132340080
+https://hackerone.com/bitmex	https://github.com/bitmex-candidates	148422125
+https://hackerone.com/bitmex	https://github.com/bitmex-private-user	128468361
 https://hackerone.com/bitso	https://github.com/bitsoex	13357168
 https://hackerone.com/blend-labs	https://github.com/blend	24480218
 https://hackerone.com/blend-labs	https://github.com/blendlabs	1750546
@@ -142,10 +142,10 @@ https://hackerone.com/cloudflare	https://github.com/cloudflare	314135
 https://hackerone.com/clubhouse	-	-
 https://hackerone.com/coda_bbp	https://github.com/coda	7737862
 https://hackerone.com/coinbase	https://github.com/CoinbaseStablecoin	65047622
+https://hackerone.com/coinbase	https://github.com/CoinbaseWallet	18060234
 https://hackerone.com/coinbase	https://github.com/base-org	108554348
 https://hackerone.com/coinbase	https://github.com/coinbase	1885080
-https://hackerone.com/coinbase  https://github.com/coinbase-samples
-https://hackerone.com/coinbase  https://github.com/CoinbaseWallet
+https://hackerone.com/coinbase	https://github.com/coinbase-samples	101842146
 https://hackerone.com/coinhako	https://github.com/coinhako	8837788
 https://hackerone.com/coinspot	-	-
 https://hackerone.com/compass-bbp	https://github.com/CompassChina	63688477
@@ -235,7 +235,7 @@ https://hackerone.com/facebook	https://github.com/facebookresearch	16943930
 https://hackerone.com/facebook	https://github.com/fbsamples	1541324
 https://hackerone.com/facebook	https://github.com/flowtype	26666315
 https://hackerone.com/facebook	https://github.com/internetorg	8052812
-https://hackerone.com/facebook  https://hackerone.com/facebook
+https://hackerone.com/facebook	https://hackerone.com/facebook	-
 https://hackerone.com/fanduel	https://github.com/fanduel	1397770
 https://hackerone.com/fanduel	https://github.com/fanduel-oss	42635839
 https://hackerone.com/faraday_inc	https://github.com/faradayio	140344
@@ -321,6 +321,7 @@ https://hackerone.com/hyperledger	https://github.com/hyperledger-labs	35617018
 https://hackerone.com/hypr-corp	https://github.com/hypr	4042438
 https://hackerone.com/iandunn-projects	https://github.com/iandunn	484068
 https://hackerone.com/ibb	https://github.com/Electron	13409222
+https://hackerone.com/ibb	https://github.com/NginxID	8537359
 https://hackerone.com/ibb	https://github.com/apache	47359
 https://hackerone.com/ibb	https://github.com/argoproj	30269780
 https://hackerone.com/ibb	https://github.com/curl	16928085
@@ -329,15 +330,14 @@ https://hackerone.com/ibb	https://github.com/libssh	44258027
 https://hackerone.com/ibb	https://github.com/libssh2	11430937
 https://hackerone.com/ibb	https://github.com/nginx	1412239
 https://hackerone.com/ibb	https://github.com/nginx-architects	73540634
+https://hackerone.com/ibb	https://github.com/nginx-modules	7256896
+https://hackerone.com/ibb	https://github.com/nginx-openid-connect	108147777
+https://hackerone.com/ibb	https://github.com/nginx-ops	111583969
+https://hackerone.com/ibb	https://github.com/nginx-payment-connect	120062894
+https://hackerone.com/ibb	https://github.com/nginx-serverless	114282625
+https://hackerone.com/ibb	https://github.com/nginx-with-docker	85887525
 https://hackerone.com/ibb	https://github.com/nginxinc	8629072
-https://hackerone.com/ibb   https://github.com/nginx-modules
-https://hackerone.com/ibb   https://github.com/nginx-openid-connect
-https://hackerone.com/ibb   https://github.com/nginx-with-docker
-https://hackerone.com/ibb   https://github.com/nginx-serverless
-https://hackerone.com/ibb   https://github.com/nginx-payment-connect
-https://hackerone.com/ibb   https://github.com/NginxID
-https://hackerone.com/ibb   https://github.com/nginx-ops
-https://hackerone.com/ibb   https://github.com/ngxirc
+https://hackerone.com/ibb	https://github.com/ngxirc	2318635
 https://hackerone.com/ibb	https://github.com/openssl	3279138
 https://hackerone.com/ibb	https://github.com/rack	42379
 https://hackerone.com/ibb	https://github.com/rails	4223
@@ -365,20 +365,20 @@ https://hackerone.com/kiwicom	https://github.com/kiwicom	25227300
 https://hackerone.com/kolesagroup	https://github.com/kolesa-team	19899078
 https://hackerone.com/kraden	https://github.com/kradencom	97843589
 https://hackerone.com/krisp	https://github.com/krispai	31486256
+https://hackerone.com/kubernetes	https://github.com/KubernetesCheatsheet	64347135
+https://hackerone.com/kubernetes	https://github.com/charmed-kubernetes	49082977
+https://hackerone.com/kubernetes	https://github.com/kube-rs	87537212
 https://hackerone.com/kubernetes	https://github.com/kubernetes	13629408
 https://hackerone.com/kubernetes	https://github.com/kubernetes-client	26615988
 https://hackerone.com/kubernetes	https://github.com/kubernetes-csi	33050221
+https://hackerone.com/kubernetes	https://github.com/kubernetes-monitoring	38432656
+https://hackerone.com/kubernetes	https://github.com/kubernetes-native-java	91942500
+https://hackerone.com/kubernetes	https://github.com/kubernetes-nightly	32779625
 https://hackerone.com/kubernetes	https://github.com/kubernetes-security	24614338
 https://hackerone.com/kubernetes	https://github.com/kubernetes-sigs	36015203
-https://hackerone.com/kubernetes    https://github.com/charmed-kubernetes
-https://hackerone.com/kubernetes    https://github.com/KubernetesCheatsheet
-https://hackerone.com/kubernetes    https://github.com/kubernetes-native-java
-https://hackerone.com/kubernetes    https://github.com/kubernetes-nightly
-https://hackerone.com/kubernetes    https://github.com/kubernetes-monitoring
-https://hackerone.com/kubernetes    https://github.com/kubernetesbigdataeg
-https://hackerone.com/kubernetes    https://github.com/kube-rs
-https://hackerone.com/kubernetes    https://github.com/kubernetes-ui
-https://hackerone.com/kubernetes    https://github.com/kubernetestr
+https://hackerone.com/kubernetes	https://github.com/kubernetes-ui	10817268
+https://hackerone.com/kubernetes	https://github.com/kubernetesbigdataeg	114423351
+https://hackerone.com/kubernetes	https://github.com/kubernetestr	16248116
 https://hackerone.com/lark_technologies	https://github.com/larksuite	54944174
 https://hackerone.com/launchdarkly	https://github.com/launchdarkly	8039656
 https://hackerone.com/launchdarkly	https://github.com/launchdarkly-labs	56648017
@@ -402,7 +402,7 @@ https://hackerone.com/magic-eden	https://github.com/magiceden	89287574
 https://hackerone.com/magic-eden	https://github.com/magiceden-oss	133897181
 https://hackerone.com/mainwp	https://github.com/mainwp	6764227
 https://hackerone.com/malwarebytes	https://github.com/Malwarebytes	1553442
-https://hackerone.com/malwarebytes  https://github.com/axiom-zen-mrrrr
+https://hackerone.com/malwarebytes	https://github.com/axiom-zen-mrrrr	35654084
 https://hackerone.com/mapbox	https://github.com/mapbox	600935
 https://hackerone.com/marriott	-	-
 https://hackerone.com/matomo	https://github.com/innocraft	22235307
