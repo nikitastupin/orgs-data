@@ -235,6 +235,7 @@ https://hackerone.com/facebook	https://github.com/facebookresearch	16943930
 https://hackerone.com/facebook	https://github.com/fbsamples	1541324
 https://hackerone.com/facebook	https://github.com/flowtype	26666315
 https://hackerone.com/facebook	https://github.com/internetorg	8052812
+https://hackerone.com/facebook  https://hackerone.com/facebook
 https://hackerone.com/fanduel	https://github.com/fanduel	1397770
 https://hackerone.com/fanduel	https://github.com/fanduel-oss	42635839
 https://hackerone.com/faraday_inc	https://github.com/faradayio	140344
@@ -329,6 +330,14 @@ https://hackerone.com/ibb	https://github.com/libssh2	11430937
 https://hackerone.com/ibb	https://github.com/nginx	1412239
 https://hackerone.com/ibb	https://github.com/nginx-architects	73540634
 https://hackerone.com/ibb	https://github.com/nginxinc	8629072
+https://hackerone.com/ibb   https://github.com/nginx-modules
+https://hackerone.com/ibb   https://github.com/nginx-openid-connect
+https://hackerone.com/ibb   https://github.com/nginx-with-docker
+https://hackerone.com/ibb   https://github.com/nginx-serverless
+https://hackerone.com/ibb   https://github.com/nginx-payment-connect
+https://hackerone.com/ibb   https://github.com/NginxID
+https://hackerone.com/ibb   https://github.com/nginx-ops
+https://hackerone.com/ibb   https://github.com/ngxirc
 https://hackerone.com/ibb	https://github.com/openssl	3279138
 https://hackerone.com/ibb	https://github.com/rack	42379
 https://hackerone.com/ibb	https://github.com/rails	4223
@@ -361,6 +370,15 @@ https://hackerone.com/kubernetes	https://github.com/kubernetes-client	26615988
 https://hackerone.com/kubernetes	https://github.com/kubernetes-csi	33050221
 https://hackerone.com/kubernetes	https://github.com/kubernetes-security	24614338
 https://hackerone.com/kubernetes	https://github.com/kubernetes-sigs	36015203
+https://hackerone.com/kubernetes    https://github.com/charmed-kubernetes
+https://hackerone.com/kubernetes    https://github.com/KubernetesCheatsheet
+https://hackerone.com/kubernetes    https://github.com/kubernetes-native-java
+https://hackerone.com/kubernetes    https://github.com/kubernetes-nightly
+https://hackerone.com/kubernetes    https://github.com/kubernetes-monitoring
+https://hackerone.com/kubernetes    https://github.com/kubernetesbigdataeg
+https://hackerone.com/kubernetes    https://github.com/kube-rs
+https://hackerone.com/kubernetes    https://github.com/kubernetes-ui
+https://hackerone.com/kubernetes    https://github.com/kubernetestr
 https://hackerone.com/lark_technologies	https://github.com/larksuite	54944174
 https://hackerone.com/launchdarkly	https://github.com/launchdarkly	8039656
 https://hackerone.com/launchdarkly	https://github.com/launchdarkly-labs	56648017
@@ -384,6 +402,7 @@ https://hackerone.com/magic-eden	https://github.com/magiceden	89287574
 https://hackerone.com/magic-eden	https://github.com/magiceden-oss	133897181
 https://hackerone.com/mainwp	https://github.com/mainwp	6764227
 https://hackerone.com/malwarebytes	https://github.com/Malwarebytes	1553442
+https://hackerone.com/malwarebytes  https://github.com/axiom-zen-mrrrr
 https://hackerone.com/mapbox	https://github.com/mapbox	600935
 https://hackerone.com/marriott	-	-
 https://hackerone.com/matomo	https://github.com/innocraft	22235307

@@ -58,7 +58,7 @@ https://bounty.decred.org/  https://github.com/decredjs
 https://bounty.ethereum.org/	https://github.com/ChainSafe	27474093
 https://bounty.ethereum.org/	https://hackerone.com/ethereum	-
 https://bounty.github.com/	https://hackerone.com/github	-
-https://bounty.mit.edu/	-	-
+https://bounty.mit.edu/ https://hackerone.com/mit
 https://bounty.tokopedia.net/rules	-	-
 https://bugbounty.att.com/	https://hackerone.com/att	-
 https://bugbounty.linecorp.com/en/	https://hackerone.com/line	-
@@ -156,12 +156,13 @@ https://hackerone.com/twitch	https://github.com/twitchtv	1795021
 https://help.dozuki.com/Info/Responsible_Disclosure	https://github.com/Dozuki	6609768
 https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program	https://github.com/Medium	923954
 https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program	https://github.com/embedly	218025
+https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program   https://github.com/Medium-Posts
 https://help.selz.com/article/217-security-escalation	https://github.com/Selz	122231209
 https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy	https://github.com/Smartling	1492945
 https://hitbtc.com/bug-report	https://github.com/HITBTC-Arrange	46569513
 https://home.bluesnap.com/security-bounty/	https://github.com/bluesnap	17125871
 https://hunter.io/security-bounty-program	https://github.com/hunter-io	12171627
-https://immutablesoft.github.io/ImmutableEcosystem/	-	-
+https://immutablesoft.github.io/ImmutableEcosystem/ https://github.com/ImmutableSoft
 https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea	https://github.com/InfStones-com	39546647
 https://ironcorelabs.com/trust-center/bug-bounty-program	https://github.com/IronCoreLabs	11394047
 https://jackaldao.medium.com/announcement-jackal-bug-bounty-program-31d4e03ab7e2	https://github.com/JackalLabs	107951994
@@ -175,6 +176,12 @@ https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program	https://github.c
 https://leetcode.com/bugbounty/	https://github.com/LeetCode-OpenSource	41718343
 https://leetcode.com/bugbounty/	https://github.com/leetcode	37351657
 https://leetcode.com/bugbounty/	https://github.com/leetcode-js	52997525
+https://leetcode.com/bugbounty/ https://github.com/LeetCode-Feedback
+https://leetcode.com/bugbounty/ https://github.com/LeetCodeSolution
+https://leetcode.com/bugbounty/ https://github.com/leetcode-golang-classroom
+https://leetcode.com/bugbounty/ https://github.com/leetcode-cn
+https://leetcode.com/bugbounty/ https://github.com/leetcode-tools
+https://leetcode.com/bugbounty/ https://github.com/LeetcodeLab
 https://lisk.io/bug-bounty-program	https://github.com/LiskHQ	16600915
 https://lisk.io/bug-bounty-program	https://github.com/liskcenterutrecht	54061777
 https://managewp.com/white-hat-reward	https://github.com/ManageWP	6010192
@@ -396,6 +403,7 @@ https://www.facebook.com/BugBounty/	https://hackerone.com/facebook	-
 https://www.facebook.com/whitehat	https://hackerone.com/facebook	-
 https://www.factorialhr.com/security/	https://github.com/factorialco	21041797
 https://www.fair.com/bug-bounty	https://github.com/wearefair	20525756
+https://www.fair.com/bug-bounty https://github.com/fairdk
 https://www.fanduel.com/security	https://hackerone.com/fanduel	-
 https://www.fastmail.com/about/bugbounty.html	https://github.com/fastmail	4554886
 https://www.fastmail.com/about/bugbounty.html	https://github.com/fastmailops	13395145
@@ -498,14 +506,17 @@ https://www.gsma.com/aboutus/legal/privacy	https://github.com/GSMAi	471264
 https://www.gsma.com/aboutus/legal/privacy	https://github.com/GSMAraex	34133880
 https://www.gsma.com/aboutus/legal/privacy	https://github.com/gsmainclusivetechlab	47753238
 https://www.hacktify.eu/en/public-programs/	https://github.com/hacktify	54135858
-https://www.hellosign.com/trust/security	https://hackerone.com/dropbox	-
+https://www.hellosign.com/trust/security    https://bugcrowd.com/dropbox
 https://www.heroku.com/policy/security	https://github.com/app-json	7739124
 https://www.heroku.com/policy/security	https://github.com/heroku	23211
 https://www.heroku.com/policy/security	https://github.com/heroku-buildpacks	36898754
 https://www.heroku.com/policy/security	https://github.com/heroku-examples	311999
 https://www.heroku.com/policy/security	https://github.com/herokumx	13485583
 https://www.heroku.com/policy/security	https://github.com/herokumx-team	20133863
-https://www.hex-rays.com/bugbounty/	-	-
+https://www.heroku.com/policy/security  https://github.com/kissaten
+https://www.heroku.com/policy/security  https://github.com/heroku-reference-apps
+https://www.heroku.com/policy/security  https://github.com/heroku2use
+https://www.hex-rays.com/bugbounty/ https://github.com/HexRaysSA
 https://www.home-assistant.io/security/	https://github.com/home-assistant	13844975
 https://www.home-assistant.io/security/	https://github.com/home-assistant-community-themes	54588755
 https://www.home-assistant.io/security/	https://github.com/home-assistant-libs	63743711
@@ -531,33 +542,37 @@ https://www.jetbrains.com/legal/terms/coordinated-disclosure.html	https://github
 https://www.kiwi.com/us/pages/security	https://hackerone.com/kiwicom	-
 https://www.korukids.co.uk/privacy-policy/	-	-
 https://www.kraken.com/security/bug-bounty	https://github.com/krakenfx	3487933
+https://www.kraken.com/security/bug-bounty  https://github.com/payward
 https://www.kreezalid.com/privacy-policy	-	-
 https://www.liquidweb.com/about-us/policies/bug-bounty-program/	https://github.com/liquidweb	216891
 https://www.liveclicker.com/trust/report-a-vulnerability/	https://github.com/Liveclicker-com	41646278
 https://www.loginradius.com/bug-bounty/	https://github.com/LoginRadius	1129163
-https://www.lyft.com/security	-	-
+https://www.lyft.com/security   https://hackerone.com/lyft   
 https://www.majidalfuttaim.com/en/responsible-disclosure-policy	https://github.com/majid-al-futtaim	53218344
 https://www.majidalfuttaim.com/en/responsible-disclosure-policy	https://github.com/majidalfuttaim	30292338
 https://www.malwarebytes.org/secure/	https://hackerone.com/malwarebytes	-
 https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html	https://github.com/marktplaats-external	781660
+https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html   https://github.com/MarktplaatsShowAndTell
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/MicroStrategy	6561523
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/mstr-dev	12275265
 https://www.microstrategy.com/us/bug-bounty-program	https://github.com/mstr-devops	11091365
 https://www.mindstronghealth.com/security-policy.html	https://github.com/mindstrong	12160845
 https://www.missguided.co.uk/responsible-disclosure	-	-
-https://www.monetha.io/bounty	-	-
+https://www.monetha.io/bounty   https://github.com/monetha
+https://www.monetha.io/bounty   https://github.com/monetha-lab
 https://www.mozilla.org/en-US/security/bug-bounty/	-	-
 https://www.mural.co/security/vdp	https://github.com/muralco	39571339
 https://www.nachi.org/bug-bounty/	https://github.com/InterNACHI	1328457
 https://www.national-lottery.co.uk/security	-	-
 https://www.ncsc.gov.uk/information/vulnerability-reporting	-	-
 https://www.ncsc.gov.uk/information/vulnerability-reporting	https://github.com/ukncsc	11391831
-https://www.ncsc.nl/security	-	-
+https://www.ncsc.nl/security    https://hackerone.com/ncsc
 https://www.netgate.com/security/index.html	-	-
 https://www.netohq.com/privacy-policy	-	-
 https://www.northwesternmutual.com/responsible-disclosure-policy/	https://github.com/northwesternmutual	22353102
 https://www.nospamproxy.de/en/cybersecurity-product-security-incident-response-team-psirt/	-	-
 https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c	https://github.com/makenotion	4792552
+https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c    https://github.com/notion-enhancer
 https://www.npmjs.com/policies/security	https://github.com/npm	6078720
 https://www.nwbbank.com/en/responsible-disclosure	-	-
 https://www.odoo.com/security-report	-	-
