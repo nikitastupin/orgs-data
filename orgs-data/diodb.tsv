@@ -50,6 +50,11 @@ https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7	https://github.com/airsw
 https://blog.aragon.org/aragon-network-bug-bounty/	https://github.com/aragon	24612534
 https://bounty.decred.org/	https://github.com/dcrlabs	25960339
 https://bounty.decred.org/	https://github.com/decred	16297194
+https://bounty.decred.org/  https://github.com/Decred-CN
+https://bounty.decred.org/  https://github.com/DecredES
+https://bounty.decred.org/  https://github.com/Decred-Bitcore
+https://bounty.decred.org/  https://github.com/Decred-Bulls
+https://bounty.decred.org/  https://github.com/decredjs
 https://bounty.ethereum.org/	https://github.com/ChainSafe	27474093
 https://bounty.ethereum.org/	https://hackerone.com/ethereum	-
 https://bounty.github.com/	https://hackerone.com/github	-
@@ -71,7 +76,7 @@ https://clause.io/security	https://github.com/clauseHQ	15165167
 https://clenergy.com/de/cyber-security-policy/?lang=en	-	-
 https://cloudcannon.com/bug-bounty/	https://github.com/CloudCannon	9701744
 https://coinapp.zendesk.com/hc/en-us/articles/115001730468-Does-CoinSpace-have-a-bug-bounty-program-	https://github.com/CoinSpace	1421564
-https://coinbase.com/whitehat	-	-
+https://coinbase.com/whitehat   https://hackerone.com/coinbase
 https://coinsbit.io/ru/privacy-policy	-	-
 https://corp.shapeshift.io/responsible-disclosure-program/	-	-
 https://corporate.walmart.com/article/responsible-disclosure-policy	https://github.com/asda-mobile	52214767
@@ -339,7 +344,7 @@ https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Polic
 https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Policy_EN.pdf	https://github.com/bunqCommunity	32871675
 https://www.burda-forward.de/en/security/	https://github.com/BurdaForward	28863522
 https://www.campaignmonitor.com/trust/report-a-vulnerability/	https://github.com/campaignmonitor	44748
-https://www.canva.com/security/bug-bounty/	https://github.com/Canva	2562356
+https://www.canva.com/security/bug-bounty/  https://bugcrowd.com/canva
 https://www.cert.govt.nz/it-specialists/guides/reporting-a-vulnerability/cert-nz-coordinated-vulnerability-disclosure-policy/	https://github.com/certnz	33886192
 https://www.childcare.co.uk/responsible-disclosure-policy	https://github.com/childcare	6045095
 https://www.classdojo.com/securitydisclosureprogram/	https://github.com/class-dojo	105009362
