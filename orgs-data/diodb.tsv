@@ -34,6 +34,12 @@ http://www.hex-rays.com/bugbounty.shtml	-	-
 http://www.independer.nl/algemeen/info/responsible-disclosure.aspx	https://github.com/Independer	25354846
 http://www.olark.com/customer/portal/articles/1237352	https://github.com/olark	107554
 http://www.riotgames.com/riot-games-security	https://github.com/RiotGames	910843
+http://www.riotgames.com/riot-games-security	https://github.com/RiotGames-Archive	33356706
+http://www.riotgames.com/riot-games-security	https://github.com/RiotGamesCookbooks	5431506
+http://www.riotgames.com/riot-games-security	https://github.com/RiotGamesMinions	5431503
+http://www.riotgames.com/riot-games-security	https://github.com/RiotGamesTracker	74121477
+http://www.riotgames.com/riot-games-security	https://github.com/riotgamesapi	30917987
+http://www.riotgames.com/riot-games-security	https://github.com/riotgameseurope	7326076
 https://305.nl/en/terms-and-conditions/security/	-	-
 https://airvpn.org/security_policy/	-	-
 https://alscotoday.com/go/bug	-	-
@@ -58,7 +64,7 @@ https://bounty.decred.org/	https://github.com/decredjs	46744945
 https://bounty.ethereum.org/	https://github.com/ChainSafe	27474093
 https://bounty.ethereum.org/	https://hackerone.com/ethereum	-
 https://bounty.github.com/	https://hackerone.com/github	-
-https://bounty.mit.edu/	https://hackerone.com/mit
+https://bounty.mit.edu/	https://hackerone.com/mit	-
 https://bounty.tokopedia.net/rules	-	-
 https://bugbounty.att.com/	https://hackerone.com/att	-
 https://bugbounty.linecorp.com/en/	https://hackerone.com/line	-
@@ -120,6 +126,7 @@ https://en.outscale.com/reporting-vulnerabilities/	https://yeswehack.com/program
 https://etherscan.io/bugbounty	https://github.com/etherscan	26205098
 https://eurid.eu/lv/other-infomation/eurid-responsible-disclosure-policy/	https://app.intigriti.com/programs/eurid/eurid/detail	-
 https://explore.researchgate.net/display/support/Security+and+vulnerability	https://github.com/researchgate	1073651
+https://explore.researchgate.net/display/support/Security+and+vulnerability	https://github.com/Researchgate-Labs	114141394
 https://ferm-rotterdam.nl/nl/responsible-disclosure-statement	-	-
 https://flow.com/flow-responsible-disclosure	https://github.com/onflow	62387156
 https://flowcrypt.com/docs/technical/bug-bounty.html	https://github.com/FlowCrypt	28631236
@@ -173,14 +180,14 @@ https://kissflow.com/responsible-disclosure/	https://github.com/kissflow	9839027
 https://krisp.ai/security/	-	-
 https://kubernetes.io/security	https://hackerone.com/kubernetes	-
 https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program	https://github.com/LayerZero-Labs	90789833
-https://leetcode.com/bugbounty/	https://github.com/LeetCode-OpenSource	41718343
-https://leetcode.com/bugbounty/	https://github.com/leetcode	37351657
-https://leetcode.com/bugbounty/	https://github.com/leetcode-js	52997525
 https://leetcode.com/bugbounty/	https://github.com/LeetCode-Feedback	61685775
+https://leetcode.com/bugbounty/	https://github.com/LeetCode-OpenSource	41718343
 https://leetcode.com/bugbounty/	https://github.com/LeetCodeSolution	37416121
 https://leetcode.com/bugbounty/	https://github.com/LeetcodeLab	44920358
+https://leetcode.com/bugbounty/	https://github.com/leetcode	37351657
 https://leetcode.com/bugbounty/	https://github.com/leetcode-cn	42017658
 https://leetcode.com/bugbounty/	https://github.com/leetcode-golang-classroom	105283000
+https://leetcode.com/bugbounty/	https://github.com/leetcode-js	52997525
 https://leetcode.com/bugbounty/	https://github.com/leetcode-tools	48126122
 https://lisk.io/bug-bounty-program	https://github.com/LiskHQ	16600915
 https://lisk.io/bug-bounty-program	https://github.com/liskcenterutrecht	54061777
@@ -207,10 +214,12 @@ https://quantstamp.com/legal/responsible-disclosure	https://github.com/quantstam
 https://reportgarden.com/responsible-disclosure/	https://github.com/ReportGarden	12379439
 https://rewind.com/legal/vulnerability-disclosure-policy/	https://github.com/rewindio	16769475
 https://ripple.com/bug-bounty/	https://github.com/ripple	3165523
+https://ripple.com/bug-bounty/	https://github.com/ripple-git-test	7852055
 https://ripple.com/bug-bounty/	https://github.com/ripplelabsbounties	7854565
 https://rockset.com/legal/responsible-disclosure-policy/	https://github.com/rockset	20976299
 https://samsungtvbounty.com/ReportBug.aspx	https://hackerone.com/samsungmobile	-
 https://scrapinghub.com/responsible-disclosure-policy/	https://github.com/scrapinghub	699596
+https://scrapinghub.com/responsible-disclosure-policy/	https://github.com/zytedata	78086978
 https://secrethub.io/security/responsible-disclosure/	https://github.com/secrethub	25981882
 https://securiti.ai/security/	-	-
 https://security.alibaba.com/	https://hackerone.com/alibaba	-
@@ -233,7 +242,7 @@ https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedi
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedin-nyc	18022023
 https://security.linkedin.com/vulnerabilty-disclosure	https://github.com/linkedinlabs	47161993
 https://security.midas.network/reporting	-	-
-https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128	-	-
+https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128	https://hackerone.com/oneplus_old	-
 https://security.remitano.com/	https://github.com/remitano	11909623
 https://security.samsungmobile.com/securityReporting.smsb	https://hackerone.com/samsungmobile	-
 https://silvergoldbull.com/bug-bounty/	-	-
@@ -339,7 +348,7 @@ https://www.bentley.com/legal/bug-bounty-report/	https://www.bentley.com/respons
 https://www.bentley.com/responsible_disclosure.pdf	https://github.com/BentleySystems	15690960
 https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html	https://hackerone.com/bitdefender	-
 https://www.bitgo.com/bug-bounty	https://github.com/BitGo	6267684
-https://www.bitmex.com/app/security	https://hackerone.com/bitmex
+https://www.bitmex.com/app/security	https://hackerone.com/bitmex	-
 https://www.bitski.com/bounty/	https://github.com/BitskiCo	36717558
 https://www.bitsoffreedom.nl/coordinated-vulnerability-disclosure-en/	https://github.com/bitsoffreedom	242932
 https://www.bitwala.com/security/	https://github.com/bitwala	18031571
@@ -402,8 +411,8 @@ https://www.f-secure.com/en/business/programs/vulnerability-reward-program	https
 https://www.facebook.com/BugBounty/	https://hackerone.com/facebook	-
 https://www.facebook.com/whitehat	https://hackerone.com/facebook	-
 https://www.factorialhr.com/security/	https://github.com/factorialco	21041797
-https://www.fair.com/bug-bounty	https://github.com/wearefair	20525756
 https://www.fair.com/bug-bounty	https://github.com/fairdk	11066226
+https://www.fair.com/bug-bounty	https://github.com/wearefair	20525756
 https://www.fanduel.com/security	https://hackerone.com/fanduel	-
 https://www.fastmail.com/about/bugbounty.html	https://github.com/fastmail	4554886
 https://www.fastmail.com/about/bugbounty.html	https://github.com/fastmailops	13395145
@@ -576,7 +585,7 @@ https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c00613177
 https://www.npmjs.com/policies/security	https://github.com/npm	6078720
 https://www.nwbbank.com/en/responsible-disclosure	-	-
 https://www.odoo.com/security-report	-	-
-https://www.offensive-security.com/bug-bounty-program/	-	-
+https://www.offensive-security.com/bug-bounty-program/	https://github.com/Warlord-Keys	136411161
 https://www.ofwat.gov.uk/vulnerability-disclosure-policy	-	-
 https://www.olacabs.com/whitehat	https://github.com/olacabs	8112130
 https://www.onlineseminar.com/security/	-	-
@@ -594,7 +603,7 @@ https://www.parity.io/bug-bounty/	https://github.com/paritytech	14176906
 https://www.parity.io/bug-bounty/	https://github.com/paritytech-webops	74656669
 https://www.particle.io/legal/responsible-disclosure/	https://github.com/particle-iot	2348966
 https://www.partnerstack.com/policies#security-practices	-	-
-https://www.pastecoin.com/bug_bounty	-	-
+https://www.pastecoin.com/bug_bounty	https://hackerone.com/pastecoin	-
 https://www.paypal.com/us/webapps/mpp/security-tools/reporting-security-issues	-	-
 https://www.pcextreme.com/policies/responsible-disclosure	https://github.com/PCextreme	5224940
 https://www.personalcapital.com/responsible-disclosure/	-	-
@@ -606,7 +615,9 @@ https://www.pon-cat.com/en/responsible-disclosure	-	-
 https://www.productboard.com/product/security/#application-security	https://github.com/productboard	11894429
 https://www.productboard.com/product/security/#application-security	https://github.com/productboardlabs	46718358
 https://www.python.org/news/security/	-	-
-https://www.qiwi.ru/page/hack.action	-	-
+https://www.qiwi.ru/page/hack.action	https://github.com/QIWI-API	29546240
+https://www.qiwi.ru/page/hack.action	https://github.com/Qiwi-Romania	55388637
+https://www.qiwi.ru/page/hack.action	https://github.com/qiwitech	34038996
 https://www.qualcomm.com/company/product-security/report-a-bug	https://github.com/QuIC	55295854
 https://www.qualcomm.com/company/product-security/report-a-bug	https://github.com/Qualcomm-AI-research	83730442
 https://www.qualcomm.com/company/product-security/report-a-bug	https://github.com/qca	3330207
