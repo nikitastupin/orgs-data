@@ -22,7 +22,7 @@ https://hackerone.com/bitdefender	https://github.com/Bitdefender-Crypto-Team	738
 https://hackerone.com/bitdefender	https://github.com/BitdefenderMDR	61509546
 https://hackerone.com/bitdefender	https://github.com/bit-ml	25640073
 https://hackerone.com/bitdefender	https://github.com/bitdefender-code	32773462
-https://hackerone.com/bitgo	-	-
+https://hackerone.com/bitgo	https://www.bitgo.com/bug-bounty	-
 https://hackerone.com/bitnet	-	-
 https://hackerone.com/blackphone	-	-
 https://hackerone.com/blogger	https://github.com/blogger-hub	54083606
@@ -240,7 +240,7 @@ https://hackerone.com/sentry	https://github.com/getsentry	1396951
 https://hackerone.com/sentry	https://github.com/sentry-demos	32687897
 https://hackerone.com/sentry_old	https://hackerone.com/sentry	-
 https://hackerone.com/shape_security	-	-
-https://hackerone.com/shapeshift-io	https://hackenproof.com/fox-foundation/shapeshift
+https://hackerone.com/shapeshift-io	https://hackenproof.com/fox-foundation/shapeshift	-
 https://hackerone.com/simple	-	-
 https://hackerone.com/simplybuilt	https://github.com/SimplyBuilt	9323389
 https://hackerone.com/six-group	https://hackerone.com/six-group-private	-
@@ -266,13 +266,13 @@ https://hackerone.com/swisscom	https://github.com/swisscom-incubator	24915383
 https://hackerone.com/swisscom	https://github.com/swisscomeventandmedia	51362753
 https://hackerone.com/symphony-3	-	-
 https://hackerone.com/synology	-	-
-https://hackerone.com/tarsnap	-	-
+https://hackerone.com/tarsnap			https://www.tarsnap.com/bugbounty.html		-
 https://hackerone.com/technisys	https://github.com/Technisys	11185894
 https://hackerone.com/technisys	https://github.com/technisys-com	92760873
 https://hackerone.com/telegram	-	-
 https://hackerone.com/teslamotors	-	-
 https://hackerone.com/testtesttesttesttfttesttestte	-	-
-https://hackerone.com/tradingview-2	-	-
+https://hackerone.com/tradingview-2	https://www.tradingview.com/bounty/	-
 https://hackerone.com/tripadvisor	-	-
 https://hackerone.com/trivago	https://github.com/trivago	1481788
 https://hackerone.com/tweakers	-	-
@@ -300,6 +300,12 @@ https://hackerone.com/withpaper	-	-
 https://hackerone.com/wpengine	https://github.com/wpengine	749191
 https://hackerone.com/yammer	https://github.com/askyammer	45440330
 https://hackerone.com/yammer	https://github.com/yammer	119402
+https://hackerone.com/yandex				https://github.com/Yandex-tech	76912881
+https://hackerone.com/yandex				https://github.com/terraform-yc-modules	128917362
+https://hackerone.com/yandex				https://github.com/yandex-cloud-examples	97603887
+https://hackerone.com/yandex				https://github.com/yandex-datasphere	143205493
+https://hackerone.com/yandex				https://github.com/yandex-load	1582782
+https://hackerone.com/yandex				https://github.com/yandex-research	72343195
 https://hackerone.com/yandex	https://github.com/ClickHouse	54801242
 https://hackerone.com/yandex	https://github.com/YandexMail	6770320
 https://hackerone.com/yandex	https://github.com/yandex	7409213
