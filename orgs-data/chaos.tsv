@@ -75,7 +75,7 @@ https://danskebank.com/responsible-disclosure	https://github.com/DanskeBankUK	34
 https://danskebank.com/responsible-disclosure	https://github.com/DanskeMarkets	72560951
 https://definityinc.com/bug-bounty-program/	-	-
 https://docs.fondy.eu/en/docs/page/bug-bounty-program	-	-
-https://en.security.tencent.com	-	-
+https://en.security.tencent.com	https://hackerone.com/tencent	-
 https://explore.researchgate.net/display/support/Security+and+vulnerability	-	-
 https://explore.zoom.us/docs/ent/h1.html	https://zoom.us/docs/en-us/vulnerability-disclosure-policy.html	-
 https://github.com/grafana/bugbounty	https://github.com/grafana	7195757
@@ -250,7 +250,7 @@ https://security.apple.com	https://developer.apple.com/security-bounty/	-
 https://security.dji.com/policy?lang=en_US	-	-
 https://security.meituan.com/	https://github.com/Meituan-Dianping	20238146
 https://security.meituan.com/	https://github.com/meituan	977371
-https://security.oneplus.com/	-	-
+https://security.oneplus.com/	https://hackerone.com/oneplus_old	-
 https://security.oppo.com/en/noticedetails.html?noticeId=20201578399519447	-	-
 https://security.remitano.com/	-	-
 https://security.samsungmobile.com/rewardsProgram.smsb	https://hackerone.com/samsungmobile	-
@@ -355,7 +355,7 @@ https://www.spokeo.com/bug-bounty	-	-
 https://www.starleaf.com/c/bug-bounty-program/	-	-
 https://www.stox.com/bounty/	-	-
 https://www.swiggy.com/bug-bounty	-	-
-https://www.swisscom.ch/en/about/security/bug-bounty.html	-	-
+https://www.swisscom.ch/en/about/security/bug-bounty.html	https://hackerone.com/swisscom	-
 https://www.t-mobile.cz/bug-bounty	-	-
 https://www.td.com/ca/en/about-td/privacy-and-security/report-vulnerability	https://github.com/TDBANK-zz	10214184
 https://www.td.com/privacy-and-security/privacy-and-security/report-vulnerability/reportvulnerability.jsp	-	-

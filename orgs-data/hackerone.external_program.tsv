@@ -10,8 +10,8 @@ https://hackerone.com/android	-	-
 https://hackerone.com/appdirect_bounty	https://github.com/AppDirect	696069
 https://hackerone.com/appdirect_bounty	https://github.com/ad-dc	3029231
 https://hackerone.com/aptible	https://github.com/aptible	4594193
-https://hackerone.com/artsy	-	-
-https://hackerone.com/asana	-	-
+https://hackerone.com/artsy	https://www.artsy.net/security	-
+https://hackerone.com/asana	https://bugcrowd.com/asana	-
 https://hackerone.com/atlassian	-	-
 https://hackerone.com/avast	-	-
 https://hackerone.com/barracuda	-	-
@@ -22,7 +22,7 @@ https://hackerone.com/bitdefender	https://github.com/Bitdefender-Crypto-Team	738
 https://hackerone.com/bitdefender	https://github.com/BitdefenderMDR	61509546
 https://hackerone.com/bitdefender	https://github.com/bit-ml	25640073
 https://hackerone.com/bitdefender	https://github.com/bitdefender-code	32773462
-https://hackerone.com/bitgo	-	-
+https://hackerone.com/bitgo	https://www.bitgo.com/bug-bounty	-
 https://hackerone.com/bitnet	-	-
 https://hackerone.com/blackphone	-	-
 https://hackerone.com/blogger	https://github.com/blogger-hub	54083606
@@ -46,7 +46,7 @@ https://hackerone.com/cloudbees	https://github.com/cloudbees-oss	18043353
 https://hackerone.com/cloudbees	https://github.com/electric-cloud	1568775
 https://hackerone.com/cloudbees	https://github.com/rollout	7106535
 https://hackerone.com/cobalt	https://github.com/cobalthq	5507970
-https://hackerone.com/coinjar	-	-
+https://hackerone.com/coinjar	https://www.coinjar.com/bounty	-
 https://hackerone.com/coinpayments	https://github.com/CoinPaymentsNet	6100871
 https://hackerone.com/contentful	-	-
 https://hackerone.com/cpanel	-	-
@@ -122,14 +122,24 @@ https://hackerone.com/lge	https://github.com/lgeopensource	14355451
 https://hackerone.com/lge	https://github.com/lgopensource	14357744
 https://hackerone.com/linode	-	-
 https://hackerone.com/lockkey	-	-
-https://hackerone.com/lyft	-	-
+https://hackerone.com/lyft	https://github.com/Lyft-Minsk	58576150
+https://hackerone.com/lyft	https://github.com/lyft	4269340
 https://hackerone.com/makemytrip	https://www.makemytrip.com/pwa-hlp/mmtbb/report	-
 https://hackerone.com/managewp	-	-
 https://hackerone.com/match	https://github.com/match-com	49917321
 https://hackerone.com/meetic	https://github.com/Meetic	1272969
 https://hackerone.com/megaprivacy	https://github.com/meganz	4920706
 https://hackerone.com/meraki	-	-
-https://hackerone.com/mit	-	-
+https://hackerone.com/mit	-	-	https://github.com/MIT-Emerging-Talent	102182112
+https://hackerone.com/mit	-	-	https://github.com/MITCriticalData-Colombia	78332822
+https://hackerone.com/mit	-	-	https://github.com/csail	317851
+https://hackerone.com/mit	-	-	https://github.com/mit	7487334
+https://hackerone.com/mit	-	-	https://github.com/mit-gfx	508415
+https://hackerone.com/mit	-	-	https://github.com/mit-han-lab	39571499
+https://hackerone.com/mit	-	-	https://github.com/mit-pdos	12404246
+https://hackerone.com/mit	-	-	https://github.com/mitdbg	649583
+https://hackerone.com/mit	-	-	https://github.com/mitmedialab	7405700
+https://hackerone.com/mit	-	-	https://github.com/mitodl	7918516
 https://hackerone.com/mobileiron	https://github.com/MobileIron-LC	57931493
 https://hackerone.com/mobileiron	https://github.com/mobileiron	2975266
 https://hackerone.com/mozilla	https://github.com/FirefoxUX	15326606
@@ -150,7 +160,7 @@ https://hackerone.com/n26	-	-
 https://hackerone.com/namecheap	https://github.com/NCCloud	36271993
 https://hackerone.com/namecheap	https://github.com/namecheap	7532706
 https://hackerone.com/namecheap	https://github.com/namecheap-labs	102253851
-https://hackerone.com/naver_whale	-	-
+https://hackerone.com/naver_whale	http://bugbounty.whale.naver.com	-
 https://hackerone.com/ncsc	https://github.com/NCSC-NL	16208471
 https://hackerone.com/nest	-	-
 https://hackerone.com/netflix	https://github.com/NetflixAdsEng	28321277
@@ -161,9 +171,12 @@ https://hackerone.com/oculus	-	-
 https://hackerone.com/okcupid	https://github.com/OkCupid	9982427
 https://hackerone.com/okcupid	https://github.com/okcupidlabz	1537857
 https://hackerone.com/okcupid	https://github.com/okws	1253186
-https://hackerone.com/olacabs	-	-
+https://hackerone.com/olacabs	https://whitehat.olacabs.com	-
 https://hackerone.com/olark	https://github.com/olark	107554
-https://hackerone.com/oneplus_old	-	-
+https://hackerone.com/oneplus_old	https://github.com/CodeAndroidFiber	18139793
+https://hackerone.com/oneplus_old	https://github.com/OnePlus-9R	89234741
+https://hackerone.com/oneplus_old	https://github.com/OnePlus-SM6375-Development	154862617
+https://hackerone.com/oneplus_old	https://github.com/OnePlus-onyx	66896049
 https://hackerone.com/oneweb-bbp	https://github.com/b-yond-infinite-network	34663089
 https://hackerone.com/oneweb-bbp	https://github.com/oneweb-net	54034794
 https://hackerone.com/onshape	https://github.com/onshape	4764603
@@ -174,7 +187,7 @@ https://hackerone.com/ovchipkaart	-	-
 https://hackerone.com/ovh-group	-	-
 https://hackerone.com/ovo	-	-
 https://hackerone.com/parseit	-	-
-https://hackerone.com/pastecoin	-	-
+https://hackerone.com/pastecoin	https://github.com/pastecoin	26125145
 https://hackerone.com/paysafecard	-	-
 https://hackerone.com/pinterest	-	-
 https://hackerone.com/pleo	https://github.com/pleo-careers	104981617
@@ -227,7 +240,7 @@ https://hackerone.com/sentry	https://github.com/getsentry	1396951
 https://hackerone.com/sentry	https://github.com/sentry-demos	32687897
 https://hackerone.com/sentry_old	https://hackerone.com/sentry	-
 https://hackerone.com/shape_security	-	-
-https://hackerone.com/shapeshift-io	-	-
+https://hackerone.com/shapeshift-io	https://hackenproof.com/fox-foundation/shapeshift	-
 https://hackerone.com/simple	-	-
 https://hackerone.com/simplybuilt	https://github.com/SimplyBuilt	9323389
 https://hackerone.com/six-group	https://hackerone.com/six-group-private	-
@@ -243,16 +256,23 @@ https://hackerone.com/sqreen	-	-
 https://hackerone.com/statuspageio	-	-
 https://hackerone.com/sunrise	https://github.com/sunriseos	49319188
 https://hackerone.com/swiggy	-	-
-https://hackerone.com/swisscom	-	-
+https://hackerone.com/swisscom	https://github.com/SCS-CBU-CED-IAM	2143498
+https://hackerone.com/swisscom	https://github.com/Swisscom-BigD	6728479
+https://hackerone.com/swisscom	https://github.com/SwisscomTrustServices	79091093
+https://hackerone.com/swisscom	https://github.com/swisscom-bigdata	11226371
+https://hackerone.com/swisscom	https://github.com/swisscom-blockchain	36889527
+https://hackerone.com/swisscom	https://github.com/swisscom-developer	5879544
+https://hackerone.com/swisscom	https://github.com/swisscom-incubator	24915383
+https://hackerone.com/swisscom	https://github.com/swisscomeventandmedia	51362753
 https://hackerone.com/symphony-3	-	-
 https://hackerone.com/synology	-	-
-https://hackerone.com/tarsnap	-	-
+https://hackerone.com/tarsnap			https://www.tarsnap.com/bugbounty.html		-
 https://hackerone.com/technisys	https://github.com/Technisys	11185894
 https://hackerone.com/technisys	https://github.com/technisys-com	92760873
 https://hackerone.com/telegram	-	-
 https://hackerone.com/teslamotors	-	-
 https://hackerone.com/testtesttesttesttfttesttestte	-	-
-https://hackerone.com/tradingview-2	-	-
+https://hackerone.com/tradingview-2	https://www.tradingview.com/bounty/	-
 https://hackerone.com/tripadvisor	-	-
 https://hackerone.com/trivago	https://github.com/trivago	1481788
 https://hackerone.com/tweakers	-	-
@@ -281,11 +301,17 @@ https://hackerone.com/wpengine	https://github.com/wpengine	749191
 https://hackerone.com/yammer	https://github.com/askyammer	45440330
 https://hackerone.com/yammer	https://github.com/yammer	119402
 https://hackerone.com/yandex	https://github.com/ClickHouse	54801242
+https://hackerone.com/yandex	https://github.com/Yandex-tech	76912881
 https://hackerone.com/yandex	https://github.com/YandexMail	6770320
+https://hackerone.com/yandex	https://github.com/terraform-yc-modules	128917362
 https://hackerone.com/yandex	https://github.com/yandex	7409213
 https://hackerone.com/yandex	https://github.com/yandex-cloud	42382453
+https://hackerone.com/yandex	https://github.com/yandex-cloud-examples	97603887
+https://hackerone.com/yandex	https://github.com/yandex-datasphere	143205493
 https://hackerone.com/yandex	https://github.com/yandex-disk	5556772
+https://hackerone.com/yandex	https://github.com/yandex-load	1582782
 https://hackerone.com/yandex	https://github.com/yandex-market	43639900
+https://hackerone.com/yandex	https://github.com/yandex-research	72343195
 https://hackerone.com/yandex	https://github.com/yandex-ui	914728
 https://hackerone.com/yandex	https://github.com/yandexdataschool	13419363
 https://hackerone.com/yandex	https://github.com/yandexmobile	1065227
