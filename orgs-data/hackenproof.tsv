@@ -40,6 +40,7 @@ https://hackenproof.com/bitrue/bitrue	https://github.com/Bitrue	42887078
 https://hackenproof.com/bitrue/bitrue	https://github.com/Bitrue-exchange	42887422
 https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	-	-
 https://hackenproof.com/bittrex/bittrex	https://github.com/Bittrex	37643419
+https://hackenproof.com/bitunix/bitunix-web-and-mobile	?
 https://hackenproof.com/bkex/bkex	-	-
 https://hackenproof.com/blofin/blofin-web-and-mobile	https://github.com/blofin	91407517
 https://hackenproof.com/blueberry-protocol-foundation/blueberry-protocol-smart-contracts	https://github.com/Blueberryfi	109386337
@@ -60,6 +61,9 @@ https://hackenproof.com/coinsbit/coinsbit	-	-
 https://hackenproof.com/coinstore/coinstore	-	-
 https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api	-	-
 https://hackenproof.com/coinw/coinw-web-and-mobile	-	-
+https://hackenproof.com/cronos/cronos-blockchain-protocols	?
+https://hackenproof.com/cronos/cronos-smart-contracts	?
+https://hackenproof.com/cronos/cronos-web	?
 https://hackenproof.com/cryptology/cryptology	https://github.com/CryptologyExchange	40626511
 https://hackenproof.com/crypviser/crypviser-network	https://github.com/crypviser	38500718
 https://hackenproof.com/crypviser/crypviser-secure-messenger	-	-
@@ -130,7 +134,7 @@ https://hackenproof.com/linen/linen-api-and-mobile	https://github.com/linen-app	
 https://hackenproof.com/local-traders/local-traders-smart-contracts	https://github.com/localtradersteam	122960831
 https://hackenproof.com/locksonic/locksonic-smart-contracts	https://github.com/locksonic	152272202
 https://hackenproof.com/locksonic/locksonic-web	https://hackenproof.com/locksonic/locksonic-smart-contracts	-
-https://hackenproof.com/metamask/metamask-validator-staking-smart-contracts	https://hackenproof.com/metamask/metamask-validator-staking-smart-contracts
+https://hackenproof.com/metamask/metamask-validator-staking-smart-contracts	https://hackenproof.com/metamask/metamask-validator-staking-smart-contracts	-
 https://hackenproof.com/metis/metis-smart-contracts	https://immunefi.com/bounty/metis	-
 https://hackenproof.com/myetherwallet/enkrypt-wallet	https://github.com/enkryptcom	47159500
 https://hackenproof.com/myetherwallet/myetherwallet	https://hackerone.com/myetherwallet	-
@@ -155,8 +159,8 @@ https://hackenproof.com/nimbus/polkalokr	https://github.com/Polkalokr	77845694
 https://hackenproof.com/nxt-technologies/nxt-permission-smart-contract	https://github.com/NXT-Technologies-INC	118133019
 https://hackenproof.com/okcoin/okcoin	https://github.com/okcoin-com	58240230
 https://hackenproof.com/okcoin/okcoin	https://github.com/okcoinjapan	38730752
-https://hackenproof.com/okx-1/okx	https://github.com/OKX-Web3	107891480
 https://hackenproof.com/okx-1/okx	https://github.com/okex	58539418
+https://hackenproof.com/okx-1/okx	https://github.com/okx	120148534
 https://hackenproof.com/okx-1/okx-blockchain-infrastructure	https://hackenproof.com/okx-1/okx	-
 https://hackenproof.com/oort/oort-protocol	https://github.com/oort-tech	87870204
 https://hackenproof.com/openware/openware	https://github.com/openware	38958431
@@ -169,7 +173,7 @@ https://hackenproof.com/pionex/pionex-app-and-api	https://github.com/pionex-offi
 https://hackenproof.com/plisio/plisio	https://github.com/Plisio	49682568
 https://hackenproof.com/pointpay/pointpay-web-and-mobile	https://github.com/pointpay	46717542
 https://hackenproof.com/polkalokr/polkalokr-1	https://hackenproof.com/nimbus/polkalokr	-
-https://hackenproof.com/poloniex/poloniex-web-and-api	https://hackenproof.com/poloniex/poloniex-web-and-api
+https://hackenproof.com/poloniex/poloniex-web-and-api	https://hackenproof.com/poloniex/poloniex-web-and-api	-
 https://hackenproof.com/polygon-technology/polygon-pos	https://immunefi.com/bounty/polygon	-
 https://hackenproof.com/probit-global/probit-web-and-mobile	-	-
 https://hackenproof.com/pumb-dot-ua/payhub-web	https://hackenproof.com/pumb-dot-ua/pumb-digital-mobile	-
@@ -180,6 +184,7 @@ https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github
 https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github.com/raiffeisenbankinternational	39131956
 https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github.com/raiffeisenua	90614460
 https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github.com/rbro-development	58083556
+https://hackenproof.com/risc-zero/risc-zero-zkvm	?
 https://hackenproof.com/router/router-smart-contract	https://immunefi.com/bounty/router/	-
 https://hackenproof.com/router/router-web	https://hackenproof.com/router/router-smart-contract	-
 https://hackenproof.com/secnam/asdf	-	-
@@ -190,7 +195,7 @@ https://hackenproof.com/shido/shido-network-protocol	https://github.com/shido-fi
 https://hackenproof.com/smardex/smardex-smart-contracts	https://github.com/SmarDex-DeFi	122521386
 https://hackenproof.com/smardex/smardex-smart-contracts	https://github.com/Smardex	72048804
 https://hackenproof.com/smart-contract-dex/restart	-	-
-https://hackenproof.com/smilee/smilee-smart-contracts	https://hackenproof.com/smilee/smilee-smart-contracts
+https://hackenproof.com/smilee/smilee-smart-contracts	https://hackenproof.com/smilee/smilee-smart-contracts	-
 https://hackenproof.com/status-dot-app/status	https://hackenproof.com/status-dot-im/status	-
 https://hackenproof.com/status-dot-app/waku	https://hackenproof.com/status-dot-im/waku	-
 https://hackenproof.com/status-dot-im/status	https://hackenproof.com/status-dot-im/waku	-
@@ -213,7 +218,7 @@ https://hackenproof.com/tetu/tetu-smart-contracts	https://immunefi.com/bounty/te
 https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui	-	-
 https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui-copy	-	-
 https://hackenproof.com/tidex/tidex-exchange	-	-
-https://hackenproof.com/tokenize-xchange/tokenize-xchange-web-and-mobile	https://hackenproof.com/tokenize-xchange/tokenize-xchange-web-and-mobile
+https://hackenproof.com/tokenize-xchange/tokenize-xchange-web-and-mobile	https://hackenproof.com/tokenize-xchange/tokenize-xchange-web-and-mobile	-
 https://hackenproof.com/ton-diamonds/ton-diamonds-web	https://github.com/tondiamonds	102686202
 https://hackenproof.com/toobit/toobit-web-and-mobile	-	-
 https://hackenproof.com/trustee/trustee-plus-mobile	https://github.com/trustee-wallet	53525326
@@ -241,6 +246,7 @@ https://hackenproof.com/whitemarket/whitemarket-web-and-mobile	https://hackenpro
 https://hackenproof.com/xt/xt	-	-
 https://hackenproof.com/yolorekt/yolorekt-community-bug-bounty	https://github.com/YOLOrekt	37414731
 https://hackenproof.com/zb/zb-web	-	-
+https://hackenproof.com/zest-protocol/zest-protocol-smart-contracts	?
 https://hackenproof.com/zetachain/zetachain-blockchain-software	https://immunefi.com/bounty/zetachain	-
 https://hackenproof.com/zetachain/zetachain-smart-contracts	https://immunefi.com/bounty/zetachain	-
 https://hackenproof.com/zetachain/zetachain-web-apps	https://immunefi.com/bounty/zetachain	-
