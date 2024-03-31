@@ -40,7 +40,7 @@ https://hackenproof.com/bitrue/bitrue	https://github.com/Bitrue	42887078
 https://hackenproof.com/bitrue/bitrue	https://github.com/Bitrue-exchange	42887422
 https://hackenproof.com/bitstorage-finance/bitstorage-web-and-api	-	-
 https://hackenproof.com/bittrex/bittrex	https://github.com/Bittrex	37643419
-https://hackenproof.com/bitunix/bitunix-web-and-mobile	-
+https://hackenproof.com/bitunix/bitunix-web-and-mobile	-	-
 https://hackenproof.com/bkex/bkex	-	-
 https://hackenproof.com/blofin/blofin-web-and-mobile	https://github.com/blofin	91407517
 https://hackenproof.com/blueberry-protocol-foundation/blueberry-protocol-smart-contracts	https://github.com/Blueberryfi	109386337
@@ -61,9 +61,9 @@ https://hackenproof.com/coinsbit/coinsbit	-	-
 https://hackenproof.com/coinstore/coinstore	-	-
 https://hackenproof.com/cointr-pro/cointr-pro-mobile-and-api	-	-
 https://hackenproof.com/coinw/coinw-web-and-mobile	-	-
-https://hackenproof.com/cronos/cronos-blockchain-protocols	https://github.com/cronos-labs
-https://hackenproof.com/cronos/cronos-smart-contracts	https://hackenproof.com/cronos/cronos-blockchain-protocols
-https://hackenproof.com/cronos/cronos-web	https://hackenproof.com/cronos/cronos-blockchain-protocols
+https://hackenproof.com/cronos/cronos-blockchain-protocols	https://github.com/cronos-labs	107087536
+https://hackenproof.com/cronos/cronos-smart-contracts	https://hackenproof.com/cronos/cronos-blockchain-protocols	-
+https://hackenproof.com/cronos/cronos-web	https://hackenproof.com/cronos/cronos-blockchain-protocols	-
 https://hackenproof.com/cryptology/cryptology	https://github.com/CryptologyExchange	40626511
 https://hackenproof.com/crypviser/crypviser-network	https://github.com/crypviser	38500718
 https://hackenproof.com/crypviser/crypviser-secure-messenger	-	-
@@ -184,7 +184,7 @@ https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github
 https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github.com/raiffeisenbankinternational	39131956
 https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github.com/raiffeisenua	90614460
 https://hackenproof.com/raiffeisen-bank/raiffeisen-web-and-mobile	https://github.com/rbro-development	58083556
-https://hackenproof.com/risc-zero/risc-zero-zkvm	https://github.com/risc0
+https://hackenproof.com/risc-zero/risc-zero-zkvm	https://github.com/risc0	90660733
 https://hackenproof.com/router/router-smart-contract	https://immunefi.com/bounty/router/	-
 https://hackenproof.com/router/router-web	https://hackenproof.com/router/router-smart-contract	-
 https://hackenproof.com/secnam/asdf	-	-
@@ -246,7 +246,7 @@ https://hackenproof.com/whitemarket/whitemarket-web-and-mobile	https://hackenpro
 https://hackenproof.com/xt/xt	-	-
 https://hackenproof.com/yolorekt/yolorekt-community-bug-bounty	https://github.com/YOLOrekt	37414731
 https://hackenproof.com/zb/zb-web	-	-
-https://hackenproof.com/zest-protocol/zest-protocol-smart-contracts	https://github.com/Zest-Protocol
+https://hackenproof.com/zest-protocol/zest-protocol-smart-contracts	https://github.com/Zest-Protocol	148785095
 https://hackenproof.com/zetachain/zetachain-blockchain-software	https://immunefi.com/bounty/zetachain	-
 https://hackenproof.com/zetachain/zetachain-smart-contracts	https://immunefi.com/bounty/zetachain	-
 https://hackenproof.com/zetachain/zetachain-web-apps	https://immunefi.com/bounty/zetachain	-
