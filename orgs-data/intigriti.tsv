@@ -6,8 +6,8 @@ https://app.intigriti.com/programs/arkane/arkanenetwork/detail	https://github.co
 https://app.intigriti.com/programs/axelspringerse/nmt/detail	https://github.com/axelspringer	12248317
 https://app.intigriti.com/programs/axelspringerse/nmt/detail	https://github.com/axelspringerai	47172505
 https://app.intigriti.com/programs/bcc/bcc/detail	-	-
-https://app.intigriti.com/programs/bmw/bmwgroup-automotive/detail	?
-https://app.intigriti.com/programs/bmw/bmwgroup/detail	?
+https://app.intigriti.com/programs/bmw/bmwgroup-automotive/detail	https://hackerone.com/bmwgroup	-
+https://app.intigriti.com/programs/bmw/bmwgroup/detail	https://hackerone.com/bmwgroup	-
 https://app.intigriti.com/programs/bpost/bpostmailingmaker/detail	-	-
 https://app.intigriti.com/programs/bpost/crossborderfines/detail	-	-
 https://app.intigriti.com/programs/bpost/dummy/detail	https://github.com/Bpost-Automation	76122059
@@ -42,7 +42,10 @@ https://app.intigriti.com/programs/depersgroep/mobilevikings/detail	https://gith
 https://app.intigriti.com/programs/depersgroep/trouw/detail	-	-
 https://app.intigriti.com/programs/depersgroep/tweakers/detail	https://github.com/tweakers	3687431
 https://app.intigriti.com/programs/depersgroep/vtmgo/detail	-	-
-https://app.intigriti.com/programs/digitalocean/digitalocean/detail	?
+https://app.intigriti.com/programs/digitalocean/digitalocean/detail	https://github.com/DigitalOceanPHP	64468436
+https://app.intigriti.com/programs/digitalocean/digitalocean/detail	https://github.com/digitalocean	4650108
+https://app.intigriti.com/programs/digitalocean/digitalocean/detail	https://github.com/digitalocean-labs	150292484
+https://app.intigriti.com/programs/digitalocean/digitalocean/detail	https://github.com/do-community	10657869
 https://app.intigriti.com/programs/doccle/doccle/detail	-	-
 https://app.intigriti.com/programs/dpgm/algemeendagblad/detail	https://app.intigriti.com/programs/depersgroep/algemeendagblad/detail	-
 https://app.intigriti.com/programs/dpgm/demorgen/detail	https://app.intigriti.com/programs/depersgroep/demorgen/detail	-
@@ -128,7 +131,7 @@ https://app.intigriti.com/programs/onetwobuild/12build/detail	-	-
 https://app.intigriti.com/programs/onetwobuild/12buildselfservice/detail	-	-
 https://app.intigriti.com/programs/peoplecert/peoplecert/detail	-	-
 https://app.intigriti.com/programs/personio/personio/detail	https://github.com/personio	26385597
-https://app.intigriti.com/programs/portofantwerp/nxtport/detail	?
+https://app.intigriti.com/programs/portofantwerp/nxtport/detail	https://github.com/NxtPort	32449409
 https://app.intigriti.com/programs/portofantwerp/portofantwerp/detail	-	-
 https://app.intigriti.com/programs/portxchange/portxchange/detail	https://github.com/portxchange	54069103
 https://app.intigriti.com/programs/prato/prato/detail	https://github.com/pratoservices	10850173
